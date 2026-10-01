@@ -1,0 +1,26 @@
+{
+  "seed": 42,
+  "synthetic": true,
+  "raw_rows": 6620,
+  "duplicates_removed": 20,
+  "unique_rows": 6600,
+  "train": 3300,
+  "validation": 1100,
+  "test": 1100,
+  "current": 1100,
+  "python": "3.12.14",
+  "sklearn": "1.8.0",
+  "missing_by_column": {
+    "customer_id": 0,
+    "snapshot_date": 0,
+    "tenure_months": 0,
+    "monthly_charge": 66,
+    "usage_previous": 0,
+    "support_tickets": 0,
+    "failed_payments": 0,
+    "contract": 0,
+    "payment_method": 66,
+    "usage_current": 66,
+    "churn_next_30d": 0
+  }
+}

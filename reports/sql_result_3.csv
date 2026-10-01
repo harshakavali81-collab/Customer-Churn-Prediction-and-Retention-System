@@ -1,0 +1,4 @@
+risk_band,customers,mean_risk,known_monthly_charges_inr,missing_charges
+High,182,0.7317299237605882,258626.85,3
+Low,558,0.15262530385048415,744853.37,5
+Medium,360,0.43270114114521213,472819.22,4

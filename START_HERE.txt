@@ -1,0 +1,10 @@
+CUSTOMER CHURN PREDICTION AND RETENTION SYSTEM
+
+1. Open README.md for Windows/VS Code steps.
+2. Install dependencies using requirements.txt.
+3. Run: python -m streamlit run app.py
+4. Read reports/RESULTS.md and docs/INTERVIEW_AND_RESUME.md.
+5. Publish using docs/GITHUB_AND_DEPLOYMENT.md.
+
+Synthetic data, trained model, scores, dashboard, source code, SQL, notebook, reports and tests are included. GitHub source: https://github.com/harshakavali81-collab/Customer-Churn-Prediction-and-Retention-System
+Public app hosting remains to be completed.

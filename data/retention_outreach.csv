@@ -1,0 +1,271 @@
+customer_id,contract,monthly_charge,churn_probability,contact_recommended,risk_band,suggested_action,priority_rank
+C06294,monthly,1333.6,0.9604391682948861,True,High,Resolve support issues,1
+C06489,monthly,2275.77,0.9523957030521586,True,High,Offer onboarding session,2
+C06393,monthly,332.49,0.9439414661227541,True,High,Billing assistance,3
+C06141,monthly,2380.14,0.9409818176936021,True,High,Billing assistance,4
+C05645,monthly,1798.36,0.9379163198202322,True,High,Offer onboarding session,5
+C06576,monthly,2104.33,0.9358091967531909,True,High,Offer onboarding session,6
+C06419,monthly,217.28,0.9243849053422909,True,High,Billing assistance,7
+C06144,monthly,1834.01,0.9232131926501018,True,High,Billing assistance,8
+C06286,monthly,949.03,0.9064621753534267,True,High,Billing assistance,9
+C05945,monthly,1564.75,0.8851874048004671,True,High,Offer onboarding session,10
+C05613,annual,1131.89,0.8799142884323611,True,High,Billing assistance,11
+C06047,monthly,2116.03,0.8786572053002494,True,High,Offer onboarding session,12
+C06279,monthly,368.24,0.8783162662469435,True,High,Resolve support issues,13
+C06330,monthly,2013.76,0.877626126780428,True,High,Offer onboarding session,14
+C05702,monthly,1323.62,0.8771874982097754,True,High,Billing assistance,15
+C05603,monthly,991.3,0.8738134723734703,True,High,Resolve support issues,16
+C05609,monthly,738.64,0.8677927873918683,True,High,Billing assistance,17
+C05832,annual,1164.59,0.86629615205775,True,High,Resolve support issues,18
+C05902,monthly,1226.97,0.8642260605006494,True,High,Offer onboarding session,19
+C05893,monthly,793.53,0.8631278333304979,True,High,Billing assistance,20
+C06128,annual,1782.93,0.8615654234648981,True,High,Resolve support issues,21
+C05805,monthly,1875.86,0.8587633896631931,True,High,Offer onboarding session,22
+C06470,monthly,1059.03,0.8571776433688387,True,High,Resolve support issues,23
+C06509,monthly,1964.84,0.8488404829581162,True,High,Billing assistance,24
+C06312,annual,1655.12,0.8466355002305785,True,High,Offer onboarding session,25
+C05643,monthly,1958.54,0.8445370145012272,True,High,Billing assistance,26
+C05621,monthly,1917.62,0.8409953756276314,True,High,Billing assistance,27
+C05795,monthly,1578.89,0.838881593574502,True,High,Billing assistance,28
+C05946,monthly,1281.94,0.8381501032831848,True,High,Billing assistance,29
+C06510,monthly,914.06,0.8369597463301797,True,High,Billing assistance,30
+C06389,monthly,549.15,0.8359189925815752,True,High,Resolve support issues,31
+C06132,monthly,1546.34,0.8353615957025652,True,High,Billing assistance,32
+C06533,monthly,1833.77,0.8340535979567473,True,High,Billing assistance,33
+C05734,monthly,1262.6,0.8326600957369286,True,High,Billing assistance,34
+C06499,monthly,1127.42,0.8310257058876376,True,High,Billing assistance,35
+C05556,monthly,2227.84,0.8308970874586374,True,High,Billing assistance,36
+C06385,monthly,211.62,0.827558459330883,True,High,Billing assistance,37
+C06307,monthly,1413.48,0.8267100276720595,True,High,Offer onboarding session,38
+C06281,monthly,345.12,0.8227967844699787,True,High,Billing assistance,39
+C05557,annual,2399.52,0.8220437112539875,True,High,Offer onboarding session,40
+C06460,monthly,2228.8,0.8198203950541125,True,High,Offer onboarding session,41
+C05791,annual,1444.47,0.8195543422538548,True,High,Billing assistance,42
+C06029,annual,1581.69,0.8139533203692866,True,High,Billing assistance,43
+C05718,monthly,1834.55,0.8078616960880303,True,High,Billing assistance,44
+C05760,monthly,2170.12,0.8032158997576523,True,High,Offer onboarding session,45
+C05716,monthly,1695.46,0.8019957487807641,True,High,Billing assistance,46
+C06429,annual,2360.72,0.8009866172686635,True,High,Resolve support issues,47
+C05754,annual,2122.3,0.8003032060831601,True,High,Offer onboarding session,48
+C05696,monthly,2122.07,0.7997858977422191,True,High,Offer onboarding session,49
+C05797,monthly,1090.45,0.7985500052304778,True,High,Offer onboarding session,50
+C05743,monthly,1595.87,0.793731147379939,True,High,Billing assistance,51
+C06324,monthly,,0.7926332072583283,True,High,Billing assistance,52
+C05984,monthly,1321.27,0.7925442588056764,True,High,Offer onboarding session,53
+C06073,monthly,2426.96,0.791431388432811,True,High,Billing assistance,54
+C06467,monthly,1698.51,0.787118364777427,True,High,Resolve support issues,55
+C06384,monthly,523.05,0.7870830167588967,True,High,Offer onboarding session,56
+C05751,monthly,1535.56,0.7868412301599594,True,High,Billing assistance,57
+C06191,monthly,2376.8,0.786251124768949,True,High,Offer onboarding session,58
+C05812,monthly,1343.63,0.785261229950891,True,High,Billing assistance,59
+C06182,monthly,2496.84,0.784111162318083,True,High,Offer onboarding session,60
+C05969,monthly,2205.72,0.7789401375800421,True,High,Review needs with customer,61
+C06138,monthly,1389.82,0.7751249371320809,True,High,Billing assistance,62
+C06444,monthly,2047.01,0.7642575809154254,True,High,Offer onboarding session,63
+C05858,monthly,728.35,0.7634147491416126,True,High,Resolve support issues,64
+C06338,monthly,1603.02,0.7630453228311663,True,High,Offer onboarding session,65
+C05866,monthly,1607.04,0.7624592197031569,True,High,Billing assistance,66
+C05979,annual,2328.49,0.7593865824338215,True,High,Billing assistance,67
+C06284,monthly,2061.28,0.7581215673158879,True,High,Billing assistance,68
+C06008,monthly,986.88,0.7532046517515908,True,High,Offer onboarding session,69
+C05652,monthly,957.2,0.7530716730885736,True,High,Resolve support issues,70
+C05688,monthly,272.36,0.7516860430730504,True,High,Offer onboarding session,71
+C05773,monthly,1755.81,0.7502857882313916,True,High,Offer onboarding session,72
+C06021,monthly,848.66,0.7480104458740119,True,High,Billing assistance,73
+C06414,monthly,202.97,0.7401985290809474,True,High,Offer onboarding session,74
+C06476,monthly,470.89,0.7391344238898114,True,High,Offer onboarding session,75
+C06567,monthly,2007.15,0.7378741948502261,True,High,Offer onboarding session,76
+C06413,monthly,2035.59,0.7354943396253193,True,High,Resolve support issues,77
+C05529,monthly,2384.78,0.7345800400854678,True,High,Resolve support issues,78
+C06431,monthly,1065.54,0.7275525888143366,True,High,Billing assistance,79
+C06493,monthly,302.39,0.7267896380103847,True,High,Billing assistance,80
+C05912,monthly,509.21,0.7262910498123055,True,High,Offer onboarding session,81
+C06265,monthly,1479.42,0.7261911310059977,True,High,Offer onboarding session,82
+C05572,monthly,236.43,0.7255366929381492,True,High,Resolve support issues,83
+C05778,monthly,269.16,0.7234834100572318,True,High,Billing assistance,84
+C05759,monthly,2119.13,0.7228102448701961,True,High,Billing assistance,85
+C06278,monthly,474.9,0.7184915241666935,True,High,Offer onboarding session,86
+C06204,monthly,1531.5,0.7168353515213316,True,High,Billing assistance,87
+C05944,monthly,1059.21,0.713873130560547,True,High,Billing assistance,88
+C06111,annual,1018.54,0.7134050379691094,True,High,Offer onboarding session,89
+C05536,monthly,1689.67,0.712169529961271,True,High,Offer onboarding session,90
+C05772,monthly,1726.1,0.7113040561886097,True,High,Offer onboarding session,91
+C05875,annual,2493.35,0.7110081192778905,True,High,Offer onboarding session,92
+C06368,monthly,2323.75,0.7092265871825099,True,High,Billing assistance,93
+C06369,annual,,0.7087936260843155,True,High,Offer onboarding session,94
+C06203,monthly,674.42,0.706208394627014,True,High,Resolve support issues,95
+C06311,monthly,1797.33,0.7057225808127983,True,High,Offer onboarding session,96
+C06519,monthly,2232.78,0.7008192204889032,True,High,Offer onboarding session,97
+C05910,annual,2373.59,0.6957852833443864,True,High,Resolve support issues,98
+C06056,monthly,2459.99,0.6946920025770481,True,High,Billing assistance,99
+C06097,monthly,2184.67,0.6910195509020077,True,High,Offer onboarding session,100
+C06051,monthly,1365.1,0.6908818628779867,True,High,Offer onboarding session,101
+C06358,monthly,2340.69,0.6888394097812224,True,High,Billing assistance,102
+C06334,monthly,1682.04,0.687352092164128,True,High,Billing assistance,103
+C05925,monthly,2098.27,0.6871994378357977,True,High,Offer onboarding session,104
+C05546,monthly,2060.51,0.6833525737214589,True,High,Billing assistance,105
+C06184,monthly,1920.76,0.6830555507007707,True,High,Resolve support issues,106
+C06315,annual,1205.9,0.6822907431032307,True,High,Offer onboarding session,107
+C06374,monthly,1123.78,0.6809300239813803,True,High,Resolve support issues,108
+C05965,monthly,1842.24,0.6795302001977456,True,High,Offer onboarding session,109
+C05638,monthly,1204.7,0.679411568494663,True,High,Offer onboarding session,110
+C05508,monthly,2290.78,0.6778156046256473,True,High,Billing assistance,111
+C06516,monthly,,0.677502365256801,True,High,Offer onboarding session,112
+C05719,monthly,2076.24,0.6774394741249491,True,High,Billing assistance,113
+C06412,monthly,2175.84,0.677406633449229,True,High,Billing assistance,114
+C06237,monthly,741.4,0.6768034532075564,True,High,Offer onboarding session,115
+C06390,monthly,1229.18,0.6767636536730225,True,High,Resolve support issues,116
+C05590,monthly,2001.26,0.6761427564612913,True,High,Review needs with customer,117
+C06070,monthly,2242.57,0.6761042565743837,True,High,Billing assistance,118
+C06162,monthly,828.57,0.67557301580641,True,High,Billing assistance,119
+C06050,monthly,1985.4,0.6747143937188601,True,High,Review needs with customer,120
+C06529,monthly,1383.89,0.6741944359580352,True,High,Offer onboarding session,121
+C06166,monthly,662.02,0.6740437901049936,True,High,Offer onboarding session,122
+C06359,monthly,1109.54,0.6717246877493026,True,High,Billing assistance,123
+C06336,monthly,1512.8,0.6701260927871434,True,High,Billing assistance,124
+C05518,monthly,1983.34,0.669485710131823,True,High,Offer onboarding session,125
+C05935,monthly,900.78,0.6677824273348348,True,High,Billing assistance,126
+C05698,monthly,2436.84,0.6656757624496158,True,High,Billing assistance,127
+C06388,monthly,418.21,0.6648400392328253,True,High,Offer onboarding session,128
+C06348,monthly,659.47,0.6644632420870523,True,High,Billing assistance,129
+C05531,monthly,1476.93,0.664416421626848,True,High,Billing assistance,130
+C06277,monthly,1768.48,0.660671816163834,True,High,Billing assistance,131
+C06165,monthly,740.9,0.6601397778257148,True,High,Offer onboarding session,132
+C06195,annual,568.82,0.65973734811343,True,High,Billing assistance,133
+C06304,monthly,619.33,0.6592536817367333,True,High,Resolve support issues,134
+C06326,annual,715.9,0.657563820451298,True,High,Billing assistance,135
+C05730,monthly,972.88,0.6533476894198051,True,High,Billing assistance,136
+C05937,monthly,1770.54,0.6525034323115572,True,High,Offer onboarding session,137
+C06209,annual,367.46,0.6522788704122966,True,High,Billing assistance,138
+C05933,monthly,2290.48,0.6510074782098333,True,High,Offer onboarding session,139
+C06287,monthly,1413.51,0.648930489381735,True,High,Offer onboarding session,140
+C05629,monthly,1005.38,0.6477413977282745,True,High,Review needs with customer,141
+C05811,monthly,1038.01,0.6470656350742299,True,High,Billing assistance,142
+C06432,monthly,2483.67,0.6456034210853433,True,High,Billing assistance,143
+C06133,monthly,1244.39,0.6440975177250999,True,High,Billing assistance,144
+C06541,annual,686.91,0.6437506499036757,True,High,Billing assistance,145
+C06520,monthly,2084.45,0.6415373435093465,True,High,Offer onboarding session,146
+C06546,monthly,2119.07,0.640151333634157,True,High,Billing assistance,147
+C06577,monthly,2181.5,0.6401332640855957,True,High,Review needs with customer,148
+C06255,annual,246.24,0.6398076108897104,True,High,Billing assistance,149
+C05690,monthly,2227.71,0.6397210993022712,True,High,Billing assistance,150
+C06292,annual,2299.48,0.6386480395016462,True,High,Resolve support issues,151
+C05878,monthly,1977.82,0.6381466817324456,True,High,Billing assistance,152
+C05800,monthly,921.64,0.6379051497937224,True,High,Offer onboarding session,153
+C06479,monthly,2072.41,0.6375480320668178,True,High,Offer onboarding session,154
+C06471,monthly,1911.07,0.6297773725035329,True,High,Offer onboarding session,155
+C05574,monthly,251.11,0.6291630851824875,True,High,Resolve support issues,156
+C05636,monthly,700.02,0.6290204435832971,True,High,Offer onboarding session,157
+C05728,monthly,252.41,0.6287243198786011,True,High,Offer onboarding session,158
+C06537,annual,1282.41,0.6281743820092535,True,High,Resolve support issues,159
+C05611,monthly,1350.66,0.6273139811304816,True,High,Offer onboarding session,160
+C06347,monthly,1350.52,0.626695839322126,True,High,Offer onboarding session,161
+C05762,monthly,1298.79,0.6258574285343189,True,High,Review needs with customer,162
+C06383,monthly,865.78,0.6256767490831393,True,High,Offer onboarding session,163
+C06258,monthly,1398.55,0.6238231897612896,True,High,Resolve support issues,164
+C06218,monthly,900.85,0.6237891357922344,True,High,Review needs with customer,165
+C06140,monthly,1494.07,0.6220681125253466,True,High,Offer onboarding session,166
+C06120,annual,325.78,0.6200793914707612,True,High,Resolve support issues,167
+C05620,monthly,1142.64,0.619463345682189,True,High,Offer onboarding session,168
+C05516,annual,2184.9,0.6185341840565544,True,High,Offer onboarding session,169
+C05802,annual,1303.85,0.6180578166232438,True,High,Billing assistance,170
+C05584,monthly,1348.31,0.617933681411861,True,High,Offer onboarding session,171
+C06156,monthly,669.51,0.6168915212230803,True,High,Offer onboarding session,172
+C06170,monthly,1740.84,0.6151924011501949,True,High,Offer onboarding session,173
+C06022,monthly,510.98,0.6142991845498843,True,High,Resolve support issues,174
+C06544,monthly,682.16,0.6136086744733441,True,High,Offer onboarding session,175
+C05887,monthly,1597.65,0.612346862602469,True,High,Resolve support issues,176
+C05725,monthly,1404.22,0.6120117970953329,True,High,Offer onboarding session,177
+C06593,monthly,2263.62,0.6068104972455716,True,High,Billing assistance,178
+C06473,annual,1451.59,0.6067135153043929,True,High,Billing assistance,179
+C06447,monthly,2255.73,0.6058145985541108,True,High,Resolve support issues,180
+C06251,monthly,463.6,0.604629119491848,True,High,Offer onboarding session,181
+C05602,monthly,2001.96,0.600668626332281,True,High,Billing assistance,182
+C06333,monthly,938.88,0.5990637994658504,True,Medium,Billing assistance,183
+C05877,monthly,1338.35,0.5989941413512392,True,Medium,Offer onboarding session,184
+C06129,monthly,2116.89,0.5989631010335585,True,Medium,Offer onboarding session,185
+C06126,monthly,516.65,0.5983536658197914,True,Medium,Offer onboarding session,186
+C05607,monthly,2070.11,0.597162024995471,True,Medium,Resolve support issues,187
+C05742,monthly,1038.12,0.5956878587205293,True,Medium,Offer onboarding session,188
+C05786,monthly,811.49,0.5937823801046697,True,Medium,Offer onboarding session,189
+C05736,annual,2270.48,0.5936113071678065,True,Medium,Offer onboarding session,190
+C06365,monthly,1902.64,0.5935501757484514,True,Medium,Offer onboarding session,191
+C06386,monthly,2169.85,0.5918996180050666,True,Medium,Offer onboarding session,192
+C06075,monthly,698.83,0.590580978969943,True,Medium,Offer onboarding session,193
+C05520,annual,1082.64,0.589992282805904,True,Medium,Offer onboarding session,194
+C06585,annual,2190.79,0.5892533476312478,True,Medium,Billing assistance,195
+C06185,monthly,778.98,0.5884123298359637,True,Medium,Offer onboarding session,196
+C06052,annual,997.14,0.586282957666165,True,Medium,Billing assistance,197
+C06502,monthly,1782.38,0.5855260673493515,True,Medium,Offer onboarding session,198
+C06451,monthly,2250.01,0.5853455624195861,True,Medium,Resolve support issues,199
+C06302,monthly,1786.83,0.5851310011673446,True,Medium,Review needs with customer,200
+C05961,monthly,459.02,0.5850194213893735,True,Medium,Billing assistance,201
+C06539,monthly,2418.77,0.5842123539172255,True,Medium,Billing assistance,202
+C06464,monthly,1240.07,0.5815034968136459,True,Medium,Offer onboarding session,203
+C05975,monthly,302.51,0.581133251012302,True,Medium,Offer onboarding session,204
+C05952,monthly,1820.32,0.5808818514245471,True,Medium,Offer onboarding session,205
+C05804,monthly,1878.67,0.5805254864088084,True,Medium,Billing assistance,206
+C06253,monthly,436.1,0.5796228058948866,True,Medium,Resolve support issues,207
+C06207,monthly,,0.5795178856648544,True,Medium,Billing assistance,208
+C05801,monthly,1395.45,0.5790020174544197,True,Medium,Offer onboarding session,209
+C06299,monthly,1443.17,0.5782034669996322,True,Medium,Offer onboarding session,210
+C05549,monthly,2445.0,0.5761137723186285,True,Medium,Offer onboarding session,211
+C05695,monthly,2345.81,0.5742305933871361,True,Medium,Offer onboarding session,212
+C06434,monthly,376.03,0.5738986164743121,True,Medium,Billing assistance,213
+C05721,monthly,2482.51,0.5732677984773609,True,Medium,Billing assistance,214
+C05699,monthly,1676.24,0.5726442329812065,True,Medium,Resolve support issues,215
+C05547,monthly,1559.4,0.5707340066395457,True,Medium,Offer onboarding session,216
+C06351,monthly,2041.2,0.5691075952996446,True,Medium,Review needs with customer,217
+C05746,monthly,808.06,0.5675973867113386,True,Medium,Offer onboarding session,218
+C05691,monthly,614.2,0.5663675524241912,True,Medium,Resolve support issues,219
+C05682,monthly,1667.99,0.5656358970051788,True,Medium,Offer onboarding session,220
+C05604,monthly,2378.58,0.5649359161035862,True,Medium,Billing assistance,221
+C05591,annual,1823.69,0.5634944742488794,True,Medium,Billing assistance,222
+C05580,monthly,1859.38,0.562979332325792,True,Medium,Billing assistance,223
+C05501,monthly,843.24,0.5629709941269465,True,Medium,Offer onboarding session,224
+C05908,monthly,763.73,0.558431285968067,True,Medium,Resolve support issues,225
+C05526,annual,1858.08,0.5583741813165857,True,Medium,Resolve support issues,226
+C06131,monthly,673.15,0.5576227174246788,True,Medium,Billing assistance,227
+C06524,monthly,1086.48,0.5575193950551082,True,Medium,Billing assistance,228
+C06042,annual,2122.09,0.5572029696509527,True,Medium,Offer onboarding session,229
+C05873,monthly,567.41,0.5563551337315802,True,Medium,Offer onboarding session,230
+C06186,monthly,1678.11,0.5557465403638949,True,Medium,Resolve support issues,231
+C06010,monthly,720.69,0.5555385783108746,True,Medium,Resolve support issues,232
+C06159,monthly,2437.78,0.5515451383914115,True,Medium,Offer onboarding session,233
+C06512,monthly,1647.09,0.5492179462114872,True,Medium,Review needs with customer,234
+C06243,monthly,1404.05,0.5480636280660405,True,Medium,Offer onboarding session,235
+C06045,monthly,1526.21,0.5472051042821088,True,Medium,Billing assistance,236
+C06301,monthly,648.07,0.5450865647728963,True,Medium,Review needs with customer,237
+C05665,monthly,584.04,0.5425571101544158,True,Medium,Billing assistance,238
+C06566,monthly,200.31,0.5420442247676863,True,Medium,Offer onboarding session,239
+C06274,monthly,319.04,0.5393608231958221,True,Medium,Resolve support issues,240
+C05857,monthly,446.35,0.5386254842442401,True,Medium,Billing assistance,241
+C06526,annual,2290.9,0.5384493443596763,True,Medium,Billing assistance,242
+C06106,annual,1325.96,0.5378743672474575,True,Medium,Billing assistance,243
+C05595,monthly,474.43,0.5364591892454709,True,Medium,Review needs with customer,244
+C06234,annual,2308.83,0.5317517192348309,True,Medium,Billing assistance,245
+C06504,monthly,714.99,0.5314207145091212,True,Medium,Offer onboarding session,246
+C06507,monthly,329.3,0.5308329426946848,True,Medium,Offer onboarding session,247
+C05738,monthly,1028.11,0.5296488005823163,True,Medium,Offer onboarding session,248
+C06498,monthly,332.78,0.5289883837819764,True,Medium,Offer onboarding session,249
+C05821,annual,2407.05,0.528963201606007,True,Medium,Resolve support issues,250
+C06415,monthly,1320.93,0.5288110011790639,True,Medium,Review needs with customer,251
+C05608,monthly,1217.64,0.5280603435577126,True,Medium,Offer onboarding session,252
+C06340,monthly,1864.44,0.5279069896941572,True,Medium,Review needs with customer,253
+C06229,monthly,802.33,0.526116469893923,True,Medium,Offer onboarding session,254
+C05677,monthly,2312.38,0.5247632536413813,True,Medium,Review needs with customer,255
+C05837,monthly,1637.08,0.523539264160374,True,Medium,Review needs with customer,256
+C05915,monthly,1910.1,0.5206713999493985,True,Medium,Billing assistance,257
+C05628,annual,1072.99,0.5203880199262955,True,Medium,Offer onboarding session,258
+C06038,monthly,1529.69,0.5189366923671503,True,Medium,Offer onboarding session,259
+C06462,annual,1893.34,0.5171848365995679,True,Medium,Offer onboarding session,260
+C05989,monthly,381.92,0.5162357028196347,True,Medium,Review needs with customer,261
+C05761,annual,2307.41,0.5125661756004604,True,Medium,Billing assistance,262
+C05548,annual,2032.84,0.5109979595250423,True,Medium,Offer onboarding session,263
+C05510,monthly,2091.94,0.5108486962186822,True,Medium,Offer onboarding session,264
+C06177,annual,1934.87,0.5095044132251185,True,Medium,Offer onboarding session,265
+C05731,monthly,2309.51,0.508351294531744,True,Medium,Billing assistance,266
+C06085,annual,1382.64,0.5058219797774107,True,Medium,Billing assistance,267
+C06192,monthly,2234.07,0.5049674465330537,True,Medium,Review needs with customer,268
+C06416,annual,807.62,0.5042770088897165,True,Medium,Billing assistance,269
+C06397,monthly,1175.94,0.5017464289833988,True,Medium,Review needs with customer,270

@@ -1,0 +1,1101 @@
+customer_id,contract,monthly_charge,churn_probability,contact_recommended,risk_band,suggested_action,priority_rank
+C06294,monthly,1333.6,0.9604391682948861,True,High,Resolve support issues,1
+C06489,monthly,2275.77,0.9523957030521586,True,High,Offer onboarding session,2
+C06393,monthly,332.49,0.9439414661227541,True,High,Billing assistance,3
+C06141,monthly,2380.14,0.9409818176936021,True,High,Billing assistance,4
+C05645,monthly,1798.36,0.9379163198202322,True,High,Offer onboarding session,5
+C06576,monthly,2104.33,0.9358091967531909,True,High,Offer onboarding session,6
+C06419,monthly,217.28,0.9243849053422909,True,High,Billing assistance,7
+C06144,monthly,1834.01,0.9232131926501018,True,High,Billing assistance,8
+C06286,monthly,949.03,0.9064621753534267,True,High,Billing assistance,9
+C05945,monthly,1564.75,0.8851874048004671,True,High,Offer onboarding session,10
+C05613,annual,1131.89,0.8799142884323611,True,High,Billing assistance,11
+C06047,monthly,2116.03,0.8786572053002494,True,High,Offer onboarding session,12
+C06279,monthly,368.24,0.8783162662469435,True,High,Resolve support issues,13
+C06330,monthly,2013.76,0.877626126780428,True,High,Offer onboarding session,14
+C05702,monthly,1323.62,0.8771874982097754,True,High,Billing assistance,15
+C05603,monthly,991.3,0.8738134723734703,True,High,Resolve support issues,16
+C05609,monthly,738.64,0.8677927873918683,True,High,Billing assistance,17
+C05832,annual,1164.59,0.86629615205775,True,High,Resolve support issues,18
+C05902,monthly,1226.97,0.8642260605006494,True,High,Offer onboarding session,19
+C05893,monthly,793.53,0.8631278333304979,True,High,Billing assistance,20
+C06128,annual,1782.93,0.8615654234648981,True,High,Resolve support issues,21
+C05805,monthly,1875.86,0.8587633896631931,True,High,Offer onboarding session,22
+C06470,monthly,1059.03,0.8571776433688387,True,High,Resolve support issues,23
+C06509,monthly,1964.84,0.8488404829581162,True,High,Billing assistance,24
+C06312,annual,1655.12,0.8466355002305785,True,High,Offer onboarding session,25
+C05643,monthly,1958.54,0.8445370145012272,True,High,Billing assistance,26
+C05621,monthly,1917.62,0.8409953756276314,True,High,Billing assistance,27
+C05795,monthly,1578.89,0.838881593574502,True,High,Billing assistance,28
+C05946,monthly,1281.94,0.8381501032831848,True,High,Billing assistance,29
+C06510,monthly,914.06,0.8369597463301797,True,High,Billing assistance,30
+C06389,monthly,549.15,0.8359189925815752,True,High,Resolve support issues,31
+C06132,monthly,1546.34,0.8353615957025652,True,High,Billing assistance,32
+C06533,monthly,1833.77,0.8340535979567473,True,High,Billing assistance,33
+C05734,monthly,1262.6,0.8326600957369286,True,High,Billing assistance,34
+C06499,monthly,1127.42,0.8310257058876376,True,High,Billing assistance,35
+C05556,monthly,2227.84,0.8308970874586374,True,High,Billing assistance,36
+C06385,monthly,211.62,0.827558459330883,True,High,Billing assistance,37
+C06307,monthly,1413.48,0.8267100276720595,True,High,Offer onboarding session,38
+C06281,monthly,345.12,0.8227967844699787,True,High,Billing assistance,39
+C05557,annual,2399.52,0.8220437112539875,True,High,Offer onboarding session,40
+C06460,monthly,2228.8,0.8198203950541125,True,High,Offer onboarding session,41
+C05791,annual,1444.47,0.8195543422538548,True,High,Billing assistance,42
+C06029,annual,1581.69,0.8139533203692866,True,High,Billing assistance,43
+C05718,monthly,1834.55,0.8078616960880303,True,High,Billing assistance,44
+C05760,monthly,2170.12,0.8032158997576523,True,High,Offer onboarding session,45
+C05716,monthly,1695.46,0.8019957487807641,True,High,Billing assistance,46
+C06429,annual,2360.72,0.8009866172686635,True,High,Resolve support issues,47
+C05754,annual,2122.3,0.8003032060831601,True,High,Offer onboarding session,48
+C05696,monthly,2122.07,0.7997858977422191,True,High,Offer onboarding session,49
+C05797,monthly,1090.45,0.7985500052304778,True,High,Offer onboarding session,50
+C05743,monthly,1595.87,0.793731147379939,True,High,Billing assistance,51
+C06324,monthly,,0.7926332072583283,True,High,Billing assistance,52
+C05984,monthly,1321.27,0.7925442588056764,True,High,Offer onboarding session,53
+C06073,monthly,2426.96,0.791431388432811,True,High,Billing assistance,54
+C06467,monthly,1698.51,0.787118364777427,True,High,Resolve support issues,55
+C06384,monthly,523.05,0.7870830167588967,True,High,Offer onboarding session,56
+C05751,monthly,1535.56,0.7868412301599594,True,High,Billing assistance,57
+C06191,monthly,2376.8,0.786251124768949,True,High,Offer onboarding session,58
+C05812,monthly,1343.63,0.785261229950891,True,High,Billing assistance,59
+C06182,monthly,2496.84,0.784111162318083,True,High,Offer onboarding session,60
+C05969,monthly,2205.72,0.7789401375800421,True,High,Review needs with customer,61
+C06138,monthly,1389.82,0.7751249371320809,True,High,Billing assistance,62
+C06444,monthly,2047.01,0.7642575809154254,True,High,Offer onboarding session,63
+C05858,monthly,728.35,0.7634147491416126,True,High,Resolve support issues,64
+C06338,monthly,1603.02,0.7630453228311663,True,High,Offer onboarding session,65
+C05866,monthly,1607.04,0.7624592197031569,True,High,Billing assistance,66
+C05979,annual,2328.49,0.7593865824338215,True,High,Billing assistance,67
+C06284,monthly,2061.28,0.7581215673158879,True,High,Billing assistance,68
+C06008,monthly,986.88,0.7532046517515908,True,High,Offer onboarding session,69
+C05652,monthly,957.2,0.7530716730885736,True,High,Resolve support issues,70
+C05688,monthly,272.36,0.7516860430730504,True,High,Offer onboarding session,71
+C05773,monthly,1755.81,0.7502857882313916,True,High,Offer onboarding session,72
+C06021,monthly,848.66,0.7480104458740119,True,High,Billing assistance,73
+C06414,monthly,202.97,0.7401985290809474,True,High,Offer onboarding session,74
+C06476,monthly,470.89,0.7391344238898114,True,High,Offer onboarding session,75
+C06567,monthly,2007.15,0.7378741948502261,True,High,Offer onboarding session,76
+C06413,monthly,2035.59,0.7354943396253193,True,High,Resolve support issues,77
+C05529,monthly,2384.78,0.7345800400854678,True,High,Resolve support issues,78
+C06431,monthly,1065.54,0.7275525888143366,True,High,Billing assistance,79
+C06493,monthly,302.39,0.7267896380103847,True,High,Billing assistance,80
+C05912,monthly,509.21,0.7262910498123055,True,High,Offer onboarding session,81
+C06265,monthly,1479.42,0.7261911310059977,True,High,Offer onboarding session,82
+C05572,monthly,236.43,0.7255366929381492,True,High,Resolve support issues,83
+C05778,monthly,269.16,0.7234834100572318,True,High,Billing assistance,84
+C05759,monthly,2119.13,0.7228102448701961,True,High,Billing assistance,85
+C06278,monthly,474.9,0.7184915241666935,True,High,Offer onboarding session,86
+C06204,monthly,1531.5,0.7168353515213316,True,High,Billing assistance,87
+C05944,monthly,1059.21,0.713873130560547,True,High,Billing assistance,88
+C06111,annual,1018.54,0.7134050379691094,True,High,Offer onboarding session,89
+C05536,monthly,1689.67,0.712169529961271,True,High,Offer onboarding session,90
+C05772,monthly,1726.1,0.7113040561886097,True,High,Offer onboarding session,91
+C05875,annual,2493.35,0.7110081192778905,True,High,Offer onboarding session,92
+C06368,monthly,2323.75,0.7092265871825099,True,High,Billing assistance,93
+C06369,annual,,0.7087936260843155,True,High,Offer onboarding session,94
+C06203,monthly,674.42,0.706208394627014,True,High,Resolve support issues,95
+C06311,monthly,1797.33,0.7057225808127983,True,High,Offer onboarding session,96
+C06519,monthly,2232.78,0.7008192204889032,True,High,Offer onboarding session,97
+C05910,annual,2373.59,0.6957852833443864,True,High,Resolve support issues,98
+C06056,monthly,2459.99,0.6946920025770481,True,High,Billing assistance,99
+C06097,monthly,2184.67,0.6910195509020077,True,High,Offer onboarding session,100
+C06051,monthly,1365.1,0.6908818628779867,True,High,Offer onboarding session,101
+C06358,monthly,2340.69,0.6888394097812224,True,High,Billing assistance,102
+C06334,monthly,1682.04,0.687352092164128,True,High,Billing assistance,103
+C05925,monthly,2098.27,0.6871994378357977,True,High,Offer onboarding session,104
+C05546,monthly,2060.51,0.6833525737214589,True,High,Billing assistance,105
+C06184,monthly,1920.76,0.6830555507007707,True,High,Resolve support issues,106
+C06315,annual,1205.9,0.6822907431032307,True,High,Offer onboarding session,107
+C06374,monthly,1123.78,0.6809300239813803,True,High,Resolve support issues,108
+C05965,monthly,1842.24,0.6795302001977456,True,High,Offer onboarding session,109
+C05638,monthly,1204.7,0.679411568494663,True,High,Offer onboarding session,110
+C05508,monthly,2290.78,0.6778156046256473,True,High,Billing assistance,111
+C06516,monthly,,0.677502365256801,True,High,Offer onboarding session,112
+C05719,monthly,2076.24,0.6774394741249491,True,High,Billing assistance,113
+C06412,monthly,2175.84,0.677406633449229,True,High,Billing assistance,114
+C06237,monthly,741.4,0.6768034532075564,True,High,Offer onboarding session,115
+C06390,monthly,1229.18,0.6767636536730225,True,High,Resolve support issues,116
+C05590,monthly,2001.26,0.6761427564612913,True,High,Review needs with customer,117
+C06070,monthly,2242.57,0.6761042565743837,True,High,Billing assistance,118
+C06162,monthly,828.57,0.67557301580641,True,High,Billing assistance,119
+C06050,monthly,1985.4,0.6747143937188601,True,High,Review needs with customer,120
+C06529,monthly,1383.89,0.6741944359580352,True,High,Offer onboarding session,121
+C06166,monthly,662.02,0.6740437901049936,True,High,Offer onboarding session,122
+C06359,monthly,1109.54,0.6717246877493026,True,High,Billing assistance,123
+C06336,monthly,1512.8,0.6701260927871434,True,High,Billing assistance,124
+C05518,monthly,1983.34,0.669485710131823,True,High,Offer onboarding session,125
+C05935,monthly,900.78,0.6677824273348348,True,High,Billing assistance,126
+C05698,monthly,2436.84,0.6656757624496158,True,High,Billing assistance,127
+C06388,monthly,418.21,0.6648400392328253,True,High,Offer onboarding session,128
+C06348,monthly,659.47,0.6644632420870523,True,High,Billing assistance,129
+C05531,monthly,1476.93,0.664416421626848,True,High,Billing assistance,130
+C06277,monthly,1768.48,0.660671816163834,True,High,Billing assistance,131
+C06165,monthly,740.9,0.6601397778257148,True,High,Offer onboarding session,132
+C06195,annual,568.82,0.65973734811343,True,High,Billing assistance,133
+C06304,monthly,619.33,0.6592536817367333,True,High,Resolve support issues,134
+C06326,annual,715.9,0.657563820451298,True,High,Billing assistance,135
+C05730,monthly,972.88,0.6533476894198051,True,High,Billing assistance,136
+C05937,monthly,1770.54,0.6525034323115572,True,High,Offer onboarding session,137
+C06209,annual,367.46,0.6522788704122966,True,High,Billing assistance,138
+C05933,monthly,2290.48,0.6510074782098333,True,High,Offer onboarding session,139
+C06287,monthly,1413.51,0.648930489381735,True,High,Offer onboarding session,140
+C05629,monthly,1005.38,0.6477413977282745,True,High,Review needs with customer,141
+C05811,monthly,1038.01,0.6470656350742299,True,High,Billing assistance,142
+C06432,monthly,2483.67,0.6456034210853433,True,High,Billing assistance,143
+C06133,monthly,1244.39,0.6440975177250999,True,High,Billing assistance,144
+C06541,annual,686.91,0.6437506499036757,True,High,Billing assistance,145
+C06520,monthly,2084.45,0.6415373435093465,True,High,Offer onboarding session,146
+C06546,monthly,2119.07,0.640151333634157,True,High,Billing assistance,147
+C06577,monthly,2181.5,0.6401332640855957,True,High,Review needs with customer,148
+C06255,annual,246.24,0.6398076108897104,True,High,Billing assistance,149
+C05690,monthly,2227.71,0.6397210993022712,True,High,Billing assistance,150
+C06292,annual,2299.48,0.6386480395016462,True,High,Resolve support issues,151
+C05878,monthly,1977.82,0.6381466817324456,True,High,Billing assistance,152
+C05800,monthly,921.64,0.6379051497937224,True,High,Offer onboarding session,153
+C06479,monthly,2072.41,0.6375480320668178,True,High,Offer onboarding session,154
+C06471,monthly,1911.07,0.6297773725035329,True,High,Offer onboarding session,155
+C05574,monthly,251.11,0.6291630851824875,True,High,Resolve support issues,156
+C05636,monthly,700.02,0.6290204435832971,True,High,Offer onboarding session,157
+C05728,monthly,252.41,0.6287243198786011,True,High,Offer onboarding session,158
+C06537,annual,1282.41,0.6281743820092535,True,High,Resolve support issues,159
+C05611,monthly,1350.66,0.6273139811304816,True,High,Offer onboarding session,160
+C06347,monthly,1350.52,0.626695839322126,True,High,Offer onboarding session,161
+C05762,monthly,1298.79,0.6258574285343189,True,High,Review needs with customer,162
+C06383,monthly,865.78,0.6256767490831393,True,High,Offer onboarding session,163
+C06258,monthly,1398.55,0.6238231897612896,True,High,Resolve support issues,164
+C06218,monthly,900.85,0.6237891357922344,True,High,Review needs with customer,165
+C06140,monthly,1494.07,0.6220681125253466,True,High,Offer onboarding session,166
+C06120,annual,325.78,0.6200793914707612,True,High,Resolve support issues,167
+C05620,monthly,1142.64,0.619463345682189,True,High,Offer onboarding session,168
+C05516,annual,2184.9,0.6185341840565544,True,High,Offer onboarding session,169
+C05802,annual,1303.85,0.6180578166232438,True,High,Billing assistance,170
+C05584,monthly,1348.31,0.617933681411861,True,High,Offer onboarding session,171
+C06156,monthly,669.51,0.6168915212230803,True,High,Offer onboarding session,172
+C06170,monthly,1740.84,0.6151924011501949,True,High,Offer onboarding session,173
+C06022,monthly,510.98,0.6142991845498843,True,High,Resolve support issues,174
+C06544,monthly,682.16,0.6136086744733441,True,High,Offer onboarding session,175
+C05887,monthly,1597.65,0.612346862602469,True,High,Resolve support issues,176
+C05725,monthly,1404.22,0.6120117970953329,True,High,Offer onboarding session,177
+C06593,monthly,2263.62,0.6068104972455716,True,High,Billing assistance,178
+C06473,annual,1451.59,0.6067135153043929,True,High,Billing assistance,179
+C06447,monthly,2255.73,0.6058145985541108,True,High,Resolve support issues,180
+C06251,monthly,463.6,0.604629119491848,True,High,Offer onboarding session,181
+C05602,monthly,2001.96,0.600668626332281,True,High,Billing assistance,182
+C06333,monthly,938.88,0.5990637994658504,True,Medium,Billing assistance,183
+C05877,monthly,1338.35,0.5989941413512392,True,Medium,Offer onboarding session,184
+C06129,monthly,2116.89,0.5989631010335585,True,Medium,Offer onboarding session,185
+C06126,monthly,516.65,0.5983536658197914,True,Medium,Offer onboarding session,186
+C05607,monthly,2070.11,0.597162024995471,True,Medium,Resolve support issues,187
+C05742,monthly,1038.12,0.5956878587205293,True,Medium,Offer onboarding session,188
+C05786,monthly,811.49,0.5937823801046697,True,Medium,Offer onboarding session,189
+C05736,annual,2270.48,0.5936113071678065,True,Medium,Offer onboarding session,190
+C06365,monthly,1902.64,0.5935501757484514,True,Medium,Offer onboarding session,191
+C06386,monthly,2169.85,0.5918996180050666,True,Medium,Offer onboarding session,192
+C06075,monthly,698.83,0.590580978969943,True,Medium,Offer onboarding session,193
+C05520,annual,1082.64,0.589992282805904,True,Medium,Offer onboarding session,194
+C06585,annual,2190.79,0.5892533476312478,True,Medium,Billing assistance,195
+C06185,monthly,778.98,0.5884123298359637,True,Medium,Offer onboarding session,196
+C06052,annual,997.14,0.586282957666165,True,Medium,Billing assistance,197
+C06502,monthly,1782.38,0.5855260673493515,True,Medium,Offer onboarding session,198
+C06451,monthly,2250.01,0.5853455624195861,True,Medium,Resolve support issues,199
+C06302,monthly,1786.83,0.5851310011673446,True,Medium,Review needs with customer,200
+C05961,monthly,459.02,0.5850194213893735,True,Medium,Billing assistance,201
+C06539,monthly,2418.77,0.5842123539172255,True,Medium,Billing assistance,202
+C06464,monthly,1240.07,0.5815034968136459,True,Medium,Offer onboarding session,203
+C05975,monthly,302.51,0.581133251012302,True,Medium,Offer onboarding session,204
+C05952,monthly,1820.32,0.5808818514245471,True,Medium,Offer onboarding session,205
+C05804,monthly,1878.67,0.5805254864088084,True,Medium,Billing assistance,206
+C06253,monthly,436.1,0.5796228058948866,True,Medium,Resolve support issues,207
+C06207,monthly,,0.5795178856648544,True,Medium,Billing assistance,208
+C05801,monthly,1395.45,0.5790020174544197,True,Medium,Offer onboarding session,209
+C06299,monthly,1443.17,0.5782034669996322,True,Medium,Offer onboarding session,210
+C05549,monthly,2445.0,0.5761137723186285,True,Medium,Offer onboarding session,211
+C05695,monthly,2345.81,0.5742305933871361,True,Medium,Offer onboarding session,212
+C06434,monthly,376.03,0.5738986164743121,True,Medium,Billing assistance,213
+C05721,monthly,2482.51,0.5732677984773609,True,Medium,Billing assistance,214
+C05699,monthly,1676.24,0.5726442329812065,True,Medium,Resolve support issues,215
+C05547,monthly,1559.4,0.5707340066395457,True,Medium,Offer onboarding session,216
+C06351,monthly,2041.2,0.5691075952996446,True,Medium,Review needs with customer,217
+C05746,monthly,808.06,0.5675973867113386,True,Medium,Offer onboarding session,218
+C05691,monthly,614.2,0.5663675524241912,True,Medium,Resolve support issues,219
+C05682,monthly,1667.99,0.5656358970051788,True,Medium,Offer onboarding session,220
+C05604,monthly,2378.58,0.5649359161035862,True,Medium,Billing assistance,221
+C05591,annual,1823.69,0.5634944742488794,True,Medium,Billing assistance,222
+C05580,monthly,1859.38,0.562979332325792,True,Medium,Billing assistance,223
+C05501,monthly,843.24,0.5629709941269465,True,Medium,Offer onboarding session,224
+C05908,monthly,763.73,0.558431285968067,True,Medium,Resolve support issues,225
+C05526,annual,1858.08,0.5583741813165857,True,Medium,Resolve support issues,226
+C06131,monthly,673.15,0.5576227174246788,True,Medium,Billing assistance,227
+C06524,monthly,1086.48,0.5575193950551082,True,Medium,Billing assistance,228
+C06042,annual,2122.09,0.5572029696509527,True,Medium,Offer onboarding session,229
+C05873,monthly,567.41,0.5563551337315802,True,Medium,Offer onboarding session,230
+C06186,monthly,1678.11,0.5557465403638949,True,Medium,Resolve support issues,231
+C06010,monthly,720.69,0.5555385783108746,True,Medium,Resolve support issues,232
+C06159,monthly,2437.78,0.5515451383914115,True,Medium,Offer onboarding session,233
+C06512,monthly,1647.09,0.5492179462114872,True,Medium,Review needs with customer,234
+C06243,monthly,1404.05,0.5480636280660405,True,Medium,Offer onboarding session,235
+C06045,monthly,1526.21,0.5472051042821088,True,Medium,Billing assistance,236
+C06301,monthly,648.07,0.5450865647728963,True,Medium,Review needs with customer,237
+C05665,monthly,584.04,0.5425571101544158,True,Medium,Billing assistance,238
+C06566,monthly,200.31,0.5420442247676863,True,Medium,Offer onboarding session,239
+C06274,monthly,319.04,0.5393608231958221,True,Medium,Resolve support issues,240
+C05857,monthly,446.35,0.5386254842442401,True,Medium,Billing assistance,241
+C06526,annual,2290.9,0.5384493443596763,True,Medium,Billing assistance,242
+C06106,annual,1325.96,0.5378743672474575,True,Medium,Billing assistance,243
+C05595,monthly,474.43,0.5364591892454709,True,Medium,Review needs with customer,244
+C06234,annual,2308.83,0.5317517192348309,True,Medium,Billing assistance,245
+C06504,monthly,714.99,0.5314207145091212,True,Medium,Offer onboarding session,246
+C06507,monthly,329.3,0.5308329426946848,True,Medium,Offer onboarding session,247
+C05738,monthly,1028.11,0.5296488005823163,True,Medium,Offer onboarding session,248
+C06498,monthly,332.78,0.5289883837819764,True,Medium,Offer onboarding session,249
+C05821,annual,2407.05,0.528963201606007,True,Medium,Resolve support issues,250
+C06415,monthly,1320.93,0.5288110011790639,True,Medium,Review needs with customer,251
+C05608,monthly,1217.64,0.5280603435577126,True,Medium,Offer onboarding session,252
+C06340,monthly,1864.44,0.5279069896941572,True,Medium,Review needs with customer,253
+C06229,monthly,802.33,0.526116469893923,True,Medium,Offer onboarding session,254
+C05677,monthly,2312.38,0.5247632536413813,True,Medium,Review needs with customer,255
+C05837,monthly,1637.08,0.523539264160374,True,Medium,Review needs with customer,256
+C05915,monthly,1910.1,0.5206713999493985,True,Medium,Billing assistance,257
+C05628,annual,1072.99,0.5203880199262955,True,Medium,Offer onboarding session,258
+C06038,monthly,1529.69,0.5189366923671503,True,Medium,Offer onboarding session,259
+C06462,annual,1893.34,0.5171848365995679,True,Medium,Offer onboarding session,260
+C05989,monthly,381.92,0.5162357028196347,True,Medium,Review needs with customer,261
+C05761,annual,2307.41,0.5125661756004604,True,Medium,Billing assistance,262
+C05548,annual,2032.84,0.5109979595250423,True,Medium,Offer onboarding session,263
+C05510,monthly,2091.94,0.5108486962186822,True,Medium,Offer onboarding session,264
+C06177,annual,1934.87,0.5095044132251185,True,Medium,Offer onboarding session,265
+C05731,monthly,2309.51,0.508351294531744,True,Medium,Billing assistance,266
+C06085,annual,1382.64,0.5058219797774107,True,Medium,Billing assistance,267
+C06192,monthly,2234.07,0.5049674465330537,True,Medium,Review needs with customer,268
+C06416,annual,807.62,0.5042770088897165,True,Medium,Billing assistance,269
+C06397,monthly,1175.94,0.5017464289833988,True,Medium,Review needs with customer,270
+C05554,annual,1457.34,0.5008339050535816,False,Medium,Regular engagement,271
+C06236,monthly,2171.11,0.5005679475125155,False,Medium,Regular engagement,272
+C05823,monthly,1001.1,0.5001885629428245,False,Medium,Regular engagement,273
+C05790,monthly,1721.97,0.4991591396912433,False,Medium,Regular engagement,274
+C06155,monthly,515.28,0.49915130559670906,False,Medium,Regular engagement,275
+C05842,monthly,722.93,0.4988078358285805,False,Medium,Regular engagement,276
+C06590,monthly,1520.9,0.49860142040717725,False,Medium,Regular engagement,277
+C05579,monthly,1327.8,0.497714099610588,False,Medium,Regular engagement,278
+C06560,annual,551.21,0.4972920224024738,False,Medium,Regular engagement,279
+C06531,monthly,715.28,0.4957944792322943,False,Medium,Regular engagement,280
+C06458,monthly,374.93,0.49573866725937443,False,Medium,Regular engagement,281
+C06553,monthly,563.09,0.4935466600951862,False,Medium,Regular engagement,282
+C05752,monthly,2314.17,0.49148834065598224,False,Medium,Regular engagement,283
+C05883,monthly,2461.79,0.4896925134612623,False,Medium,Regular engagement,284
+C06538,monthly,2155.24,0.48953625949042073,False,Medium,Regular engagement,285
+C06588,monthly,289.15,0.4890590049601972,False,Medium,Regular engagement,286
+C05886,monthly,1914.91,0.48892774617905416,False,Medium,Regular engagement,287
+C05589,monthly,281.94,0.4879164534640954,False,Medium,Regular engagement,288
+C06242,monthly,1216.09,0.48683009064677524,False,Medium,Regular engagement,289
+C06568,monthly,581.19,0.48595871523816264,False,Medium,Regular engagement,290
+C05542,monthly,537.94,0.4858801883556219,False,Medium,Regular engagement,291
+C06328,annual,2382.31,0.4830499516132675,False,Medium,Regular engagement,292
+C05849,annual,458.53,0.48174648865372033,False,Medium,Regular engagement,293
+C06565,monthly,1173.12,0.48165751626224307,False,Medium,Regular engagement,294
+C05552,monthly,510.41,0.48119753020842604,False,Medium,Regular engagement,295
+C05860,annual,947.35,0.48021705443773866,False,Medium,Regular engagement,296
+C05596,monthly,748.45,0.4794549696052517,False,Medium,Regular engagement,297
+C05948,monthly,1634.38,0.47871252846981505,False,Medium,Regular engagement,298
+C05514,monthly,2381.34,0.4783528101633094,False,Medium,Regular engagement,299
+C06595,annual,2096.85,0.4775818037683322,False,Medium,Regular engagement,300
+C06599,monthly,2317.22,0.47741525938682855,False,Medium,Regular engagement,301
+C05931,monthly,2022.14,0.47683273413147514,False,Medium,Regular engagement,302
+C05988,monthly,1129.36,0.4767503359004566,False,Medium,Regular engagement,303
+C06065,monthly,802.91,0.4759077126632153,False,Medium,Regular engagement,304
+C06490,monthly,743.64,0.47578452652126485,False,Medium,Regular engagement,305
+C06205,monthly,1637.74,0.47436767309355615,False,Medium,Regular engagement,306
+C06090,monthly,1646.85,0.4738205556556125,False,Medium,Regular engagement,307
+C05586,monthly,308.89,0.473501399613765,False,Medium,Regular engagement,308
+C06496,monthly,239.59,0.47252471874429763,False,Medium,Regular engagement,309
+C05723,annual,1315.65,0.4723011090347288,False,Medium,Regular engagement,310
+C06072,monthly,1802.54,0.4717432195162858,False,Medium,Regular engagement,311
+C06341,monthly,534.87,0.4691972778974952,False,Medium,Regular engagement,312
+C05747,monthly,,0.4678342381699972,False,Medium,Regular engagement,313
+C05819,monthly,2156.81,0.46645034989325923,False,Medium,Regular engagement,314
+C06254,monthly,535.03,0.4658316536674219,False,Medium,Regular engagement,315
+C06146,monthly,1447.18,0.46493161916982584,False,Medium,Regular engagement,316
+C05527,monthly,2399.85,0.4621351970113039,False,Medium,Regular engagement,317
+C05990,monthly,1131.05,0.46057659759248804,False,Medium,Regular engagement,318
+C06078,monthly,970.78,0.45954318082412715,False,Medium,Regular engagement,319
+C05992,monthly,1816.83,0.4575649936756785,False,Medium,Regular engagement,320
+C06573,monthly,773.39,0.4556733249167873,False,Medium,Regular engagement,321
+C06506,monthly,1786.66,0.45376766733228463,False,Medium,Regular engagement,322
+C05680,monthly,1423.73,0.4527023336723426,False,Medium,Regular engagement,323
+C05631,monthly,845.88,0.4513767394108646,False,Medium,Regular engagement,324
+C06422,monthly,1307.65,0.45091761131369174,False,Medium,Regular engagement,325
+C05792,monthly,501.48,0.450315561307098,False,Medium,Regular engagement,326
+C06136,annual,841.67,0.4501247983476573,False,Medium,Regular engagement,327
+C06418,monthly,2145.25,0.44981948379408815,False,Medium,Regular engagement,328
+C05669,annual,1428.0,0.4484113214513178,False,Medium,Regular engagement,329
+C06092,monthly,1470.56,0.447471428033942,False,Medium,Regular engagement,330
+C06076,annual,2496.13,0.4456776380645332,False,Medium,Regular engagement,331
+C05905,monthly,2138.49,0.4450581643785811,False,Medium,Regular engagement,332
+C05964,monthly,545.83,0.4449211743635221,False,Medium,Regular engagement,333
+C05563,monthly,1569.71,0.4431344340745215,False,Medium,Regular engagement,334
+C06366,annual,2420.32,0.442141990659384,False,Medium,Regular engagement,335
+C05830,annual,414.38,0.44098279250018274,False,Medium,Regular engagement,336
+C05577,monthly,1786.95,0.4404635457012553,False,Medium,Regular engagement,337
+C05868,monthly,572.83,0.4393578503981923,False,Medium,Regular engagement,338
+C06483,monthly,713.51,0.43848540495573307,False,Medium,Regular engagement,339
+C06130,monthly,1340.59,0.43840326021498277,False,Medium,Regular engagement,340
+C05714,annual,2439.7,0.438032748488171,False,Medium,Regular engagement,341
+C06196,monthly,375.81,0.43769243966952687,False,Medium,Regular engagement,342
+C06017,monthly,973.91,0.43743878122988494,False,Medium,Regular engagement,343
+C06500,monthly,310.73,0.4367017420561802,False,Medium,Regular engagement,344
+C05896,monthly,1499.41,0.43614703652527465,False,Medium,Regular engagement,345
+C05976,annual,2167.88,0.4352458878685046,False,Medium,Regular engagement,346
+C05515,monthly,919.45,0.4347233827362333,False,Medium,Regular engagement,347
+C05550,monthly,1098.21,0.4331434775324165,False,Medium,Regular engagement,348
+C06275,monthly,1475.69,0.43230878004017664,False,Medium,Regular engagement,349
+C05870,monthly,592.72,0.4305413818716558,False,Medium,Regular engagement,350
+C06308,monthly,2456.16,0.4295661318452253,False,Medium,Regular engagement,351
+C06059,monthly,359.72,0.4286897565083127,False,Medium,Regular engagement,352
+C05959,monthly,1187.73,0.42684648645183143,False,Medium,Regular engagement,353
+C06396,monthly,1268.38,0.4265854139322632,False,Medium,Regular engagement,354
+C06148,monthly,768.0,0.4256540303639899,False,Medium,Regular engagement,355
+C05648,monthly,1230.85,0.4247257471158597,False,Medium,Regular engagement,356
+C06310,monthly,2367.95,0.4245947601832975,False,Medium,Regular engagement,357
+C06091,monthly,2142.15,0.4245273452631883,False,Medium,Regular engagement,358
+C06559,annual,1349.75,0.42447649202674925,False,Medium,Regular engagement,359
+C05809,monthly,1076.52,0.42414302210938337,False,Medium,Regular engagement,360
+C05708,monthly,1799.82,0.423937560229459,False,Medium,Regular engagement,361
+C06015,monthly,2363.83,0.4235032824513036,False,Medium,Regular engagement,362
+C05649,annual,562.16,0.42214229964974515,False,Medium,Regular engagement,363
+C05973,annual,1628.1,0.4220488091487922,False,Medium,Regular engagement,364
+C06305,annual,2369.7,0.421977901610316,False,Medium,Regular engagement,365
+C05519,monthly,2260.45,0.4219148137748629,False,Medium,Regular engagement,366
+C05524,monthly,2222.4,0.4216460373990531,False,Medium,Regular engagement,367
+C05981,monthly,2480.37,0.4206958119906874,False,Medium,Regular engagement,368
+C06112,monthly,766.46,0.420085917147561,False,Medium,Regular engagement,369
+C06007,annual,2333.53,0.4200363597474438,False,Medium,Regular engagement,370
+C06435,annual,1555.44,0.4196380860879172,False,Medium,Regular engagement,371
+C06376,annual,1557.46,0.4187266757974812,False,Medium,Regular engagement,372
+C05958,monthly,1100.49,0.41626732275306483,False,Medium,Regular engagement,373
+C06335,annual,255.02,0.41616347113683344,False,Medium,Regular engagement,374
+C06114,annual,2177.46,0.41597164885858046,False,Medium,Regular engagement,375
+C05675,monthly,378.8,0.41542731408164524,False,Medium,Regular engagement,376
+C06273,monthly,1850.64,0.41287753145039513,False,Medium,Regular engagement,377
+C05996,monthly,432.16,0.41214583275095473,False,Medium,Regular engagement,378
+C05656,monthly,1747.28,0.41180462029024206,False,Medium,Regular engagement,379
+C06082,annual,1328.85,0.41062870343706326,False,Medium,Regular engagement,380
+C06079,monthly,594.74,0.40994873404773985,False,Medium,Regular engagement,381
+C06124,monthly,1588.9,0.40962407282380175,False,Medium,Regular engagement,382
+C06592,monthly,223.35,0.4087107797094308,False,Medium,Regular engagement,383
+C05978,annual,920.07,0.4084148672976578,False,Medium,Regular engagement,384
+C06363,monthly,2118.92,0.4068879501197268,False,Medium,Regular engagement,385
+C05755,annual,2333.93,0.40644314769886697,False,Medium,Regular engagement,386
+C05555,monthly,622.74,0.4053091563531708,False,Medium,Regular engagement,387
+C05660,monthly,759.67,0.40417614707483346,False,Medium,Regular engagement,388
+C05767,annual,1570.2,0.4030905720202918,False,Medium,Regular engagement,389
+C06164,monthly,2443.06,0.4023508367933665,False,Medium,Regular engagement,390
+C05630,monthly,1603.19,0.4022912030692938,False,Medium,Regular engagement,391
+C05750,monthly,404.15,0.3999403627484793,False,Medium,Regular engagement,392
+C06424,monthly,1592.42,0.399236531393163,False,Medium,Regular engagement,393
+C05724,monthly,1861.51,0.3988319900865323,False,Medium,Regular engagement,394
+C05798,annual,1479.27,0.3980632901308062,False,Medium,Regular engagement,395
+C05562,monthly,2161.42,0.3980553312309337,False,Medium,Regular engagement,396
+C05917,monthly,2482.48,0.39717672189508035,False,Medium,Regular engagement,397
+C06176,monthly,1457.67,0.39637205917881124,False,Medium,Regular engagement,398
+C06235,monthly,1015.17,0.39606068059836796,False,Medium,Regular engagement,399
+C05561,monthly,1090.07,0.39417364586346065,False,Medium,Regular engagement,400
+C06361,monthly,1945.88,0.39368804106801164,False,Medium,Regular engagement,401
+C05667,monthly,933.54,0.39330633355000316,False,Medium,Regular engagement,402
+C06350,monthly,2153.36,0.39305614193133437,False,Medium,Regular engagement,403
+C06245,annual,831.59,0.39227514099874167,False,Medium,Regular engagement,404
+C06077,monthly,600.76,0.3915963830929312,False,Medium,Regular engagement,405
+C06501,monthly,1596.35,0.3907458406822486,False,Medium,Regular engagement,406
+C06088,monthly,750.36,0.38975466515342017,False,Medium,Regular engagement,407
+C06123,monthly,666.54,0.3889288100960733,False,Medium,Regular engagement,408
+C05758,monthly,275.55,0.3880954201358176,False,Medium,Regular engagement,409
+C06492,monthly,279.86,0.38791641942901905,False,Medium,Regular engagement,410
+C06523,monthly,1231.12,0.38735332711350545,False,Medium,Regular engagement,411
+C06379,monthly,1132.87,0.3868861676737516,False,Medium,Regular engagement,412
+C06511,annual,1076.59,0.3867436073335567,False,Medium,Regular engagement,413
+C05715,monthly,2141.45,0.38464229311777737,False,Medium,Regular engagement,414
+C06525,annual,305.76,0.38375900704872323,False,Medium,Regular engagement,415
+C06193,monthly,1556.88,0.3830350227296561,False,Medium,Regular engagement,416
+C06343,annual,431.1,0.38264213212763604,False,Medium,Regular engagement,417
+C06250,monthly,2313.13,0.38198536978379605,False,Medium,Regular engagement,418
+C05726,monthly,1949.14,0.38131843424066114,False,Medium,Regular engagement,419
+C06449,monthly,505.47,0.3812738237048854,False,Medium,Regular engagement,420
+C06439,monthly,1715.88,0.3803068681784567,False,Medium,Regular engagement,421
+C06548,monthly,1069.49,0.37968106499366344,False,Medium,Regular engagement,422
+C05535,monthly,386.7,0.37936908015543563,False,Medium,Regular engagement,423
+C06283,monthly,2095.89,0.3777951892770554,False,Medium,Regular engagement,424
+C06167,annual,1627.01,0.37739979015541797,False,Medium,Regular engagement,425
+C06233,monthly,1334.77,0.3772318370693091,False,Medium,Regular engagement,426
+C05941,monthly,1334.36,0.37505601885472617,False,Medium,Regular engagement,427
+C05713,monthly,887.23,0.37425955306769343,False,Medium,Regular engagement,428
+C05920,monthly,2447.73,0.37425489507646137,False,Medium,Regular engagement,429
+C06142,monthly,1821.69,0.37406789455341277,False,Medium,Regular engagement,430
+C06214,monthly,603.55,0.37376054333473646,False,Medium,Regular engagement,431
+C05838,monthly,925.04,0.3715455221942499,False,Medium,Regular engagement,432
+C06025,annual,1418.32,0.3699251609805695,False,Medium,Regular engagement,433
+C06058,monthly,1592.29,0.3682889879515136,False,Medium,Regular engagement,434
+C05999,monthly,417.09,0.36772445320749086,False,Medium,Regular engagement,435
+C05780,monthly,1272.44,0.36625779347652354,False,Medium,Regular engagement,436
+C05558,monthly,781.4,0.36605970712823294,False,Medium,Regular engagement,437
+C06210,annual,1558.76,0.3659280830800911,False,Medium,Regular engagement,438
+C06020,monthly,1901.83,0.36554094013027183,False,Medium,Regular engagement,439
+C06367,monthly,2489.27,0.3654500834545867,False,Medium,Regular engagement,440
+C06257,monthly,1670.04,0.36261176408347917,False,Medium,Regular engagement,441
+C05737,monthly,1488.54,0.3623504787896474,False,Medium,Regular engagement,442
+C05502,annual,492.97,0.3614649282796237,False,Medium,Regular engagement,443
+C06352,monthly,574.01,0.3612569767182373,False,Medium,Regular engagement,444
+C06223,monthly,1374.3,0.36006484486849394,False,Medium,Regular engagement,445
+C05899,monthly,1346.76,0.3594735432893812,False,Medium,Regular engagement,446
+C06055,monthly,913.35,0.35827153572725595,False,Medium,Regular engagement,447
+C06586,monthly,1920.13,0.35804278060632916,False,Medium,Regular engagement,448
+C05663,annual,1480.99,0.35786752289995366,False,Medium,Regular engagement,449
+C05593,monthly,761.88,0.3576549371391582,False,Medium,Regular engagement,450
+C06518,monthly,1117.98,0.3569089882613615,False,Medium,Regular engagement,451
+C05783,monthly,675.9,0.3566849383902777,False,Medium,Regular engagement,452
+C06468,monthly,1793.92,0.35593305960830907,False,Medium,Regular engagement,453
+C05833,monthly,1549.81,0.3533045541277479,False,Medium,Regular engagement,454
+C06303,monthly,1100.68,0.3525797509518984,False,Medium,Regular engagement,455
+C05583,monthly,255.75,0.35167525819162865,False,Medium,Regular engagement,456
+C06145,monthly,848.99,0.35019438435915423,False,Medium,Regular engagement,457
+C06371,annual,2422.29,0.35004035103410536,False,Medium,Regular engagement,458
+C05670,annual,2190.72,0.3499829678490497,False,Medium,Regular engagement,459
+C06160,annual,2216.65,0.34883741777295696,False,Medium,Regular engagement,460
+C05785,monthly,413.08,0.34776397818125865,False,Medium,Regular engagement,461
+C05861,monthly,2190.41,0.3477556424113926,False,Medium,Regular engagement,462
+C06564,annual,332.46,0.34760674895709864,False,Medium,Regular engagement,463
+C06575,annual,1021.66,0.34730391848967085,False,Medium,Regular engagement,464
+C06013,monthly,1513.12,0.34678589153648554,False,Medium,Regular engagement,465
+C06457,monthly,1405.58,0.3464296364935623,False,Medium,Regular engagement,466
+C05541,monthly,515.01,0.34549679481955453,False,Medium,Regular engagement,467
+C05815,annual,2143.95,0.34546142033263944,False,Medium,Regular engagement,468
+C05533,annual,1505.4,0.3447794833505988,False,Medium,Regular engagement,469
+C06578,monthly,602.16,0.34410788844492113,False,Medium,Regular engagement,470
+C06150,monthly,2366.02,0.343704025923207,False,Medium,Regular engagement,471
+C06459,monthly,761.78,0.34299397810417287,False,Medium,Regular engagement,472
+C05551,monthly,543.87,0.34141987719973527,False,Medium,Regular engagement,473
+C05851,monthly,1004.29,0.3404354478151411,False,Medium,Regular engagement,474
+C06437,annual,614.0,0.33914160414524736,False,Medium,Regular engagement,475
+C06562,monthly,336.86,0.3387267995530136,False,Medium,Regular engagement,476
+C06154,monthly,1424.05,0.3374048786280404,False,Medium,Regular engagement,477
+C05642,annual,,0.33691522581025213,False,Medium,Regular engagement,478
+C06093,annual,684.71,0.3355452481626211,False,Medium,Regular engagement,479
+C06125,monthly,1996.27,0.33410526535042706,False,Medium,Regular engagement,480
+C06456,monthly,1923.0,0.3331867344685607,False,Medium,Regular engagement,481
+C05892,monthly,1395.41,0.33176037861875785,False,Medium,Regular engagement,482
+C05506,monthly,253.38,0.33109214396659975,False,Medium,Regular engagement,483
+C06241,annual,2393.05,0.3302209287582808,False,Medium,Regular engagement,484
+C06552,monthly,1027.9,0.32969737985612246,False,Medium,Regular engagement,485
+C06505,annual,2196.55,0.3296349540328904,False,Medium,Regular engagement,486
+C05987,monthly,1488.24,0.32828221990229617,False,Medium,Regular engagement,487
+C05900,monthly,572.81,0.3279014523880777,False,Medium,Regular engagement,488
+C06406,annual,1935.88,0.32786738904982726,False,Medium,Regular engagement,489
+C05781,annual,1028.42,0.3278561440869219,False,Medium,Regular engagement,490
+C05962,monthly,1821.88,0.3274715332192468,False,Medium,Regular engagement,491
+C05947,monthly,1037.29,0.3274055720208212,False,Medium,Regular engagement,492
+C05808,monthly,2064.7,0.3257971873585469,False,Medium,Regular engagement,493
+C05625,monthly,1279.54,0.3253819278371547,False,Medium,Regular engagement,494
+C06530,annual,2025.56,0.32527243021160557,False,Medium,Regular engagement,495
+C06313,monthly,738.16,0.32370399076504763,False,Medium,Regular engagement,496
+C05831,monthly,1887.63,0.3234943944755302,False,Medium,Regular engagement,497
+C06268,monthly,373.08,0.32329036681276874,False,Medium,Regular engagement,498
+C05666,monthly,,0.32291030586713904,False,Medium,Regular engagement,499
+C05600,monthly,633.04,0.3226890175140799,False,Medium,Regular engagement,500
+C05993,monthly,388.65,0.3212009173302306,False,Medium,Regular engagement,501
+C06071,monthly,392.61,0.3208773405190732,False,Medium,Regular engagement,502
+C05732,annual,1115.03,0.3208468016601803,False,Medium,Regular engagement,503
+C05926,monthly,2492.78,0.32078879124401655,False,Medium,Regular engagement,504
+C05503,annual,687.74,0.3206805815936735,False,Medium,Regular engagement,505
+C06061,monthly,1227.04,0.3203451580454718,False,Medium,Regular engagement,506
+C05942,monthly,265.61,0.3203329543386218,False,Medium,Regular engagement,507
+C06581,monthly,481.08,0.31967124659917595,False,Medium,Regular engagement,508
+C05617,monthly,703.75,0.3188577809550319,False,Medium,Regular engagement,509
+C06248,annual,1406.68,0.31869304331302073,False,Medium,Regular engagement,510
+C06325,annual,1810.64,0.3181599485560799,False,Medium,Regular engagement,511
+C06206,annual,1510.93,0.3180869819750405,False,Medium,Regular engagement,512
+C05934,monthly,465.71,0.31796157350848586,False,Medium,Regular engagement,513
+C06174,monthly,1038.2,0.31793285576336916,False,Medium,Regular engagement,514
+C06118,monthly,1412.77,0.3176309792899881,False,Medium,Regular engagement,515
+C05632,monthly,524.11,0.31659892212106283,False,Medium,Regular engagement,516
+C06465,monthly,1420.31,0.31636746038194596,False,Medium,Regular engagement,517
+C05985,monthly,434.32,0.31601411720112105,False,Medium,Regular engagement,518
+C05779,annual,970.88,0.31592261629166657,False,Medium,Regular engagement,519
+C05834,monthly,258.48,0.314985255854406,False,Medium,Regular engagement,520
+C06104,monthly,1831.08,0.3121296442331632,False,Medium,Regular engagement,521
+C06478,monthly,1793.67,0.3105910408078138,False,Medium,Regular engagement,522
+C06339,monthly,878.4,0.30996542214722794,False,Medium,Regular engagement,523
+C06238,monthly,1826.2,0.30978831076677144,False,Medium,Regular engagement,524
+C06240,monthly,2466.92,0.30858868349828406,False,Medium,Regular engagement,525
+C05774,annual,1904.03,0.3084090145734761,False,Medium,Regular engagement,526
+C06298,monthly,1871.38,0.3073324081611839,False,Medium,Regular engagement,527
+C05646,monthly,321.57,0.30592214752456354,False,Medium,Regular engagement,528
+C06293,monthly,1664.81,0.30572405544933096,False,Medium,Regular engagement,529
+C06441,monthly,1081.62,0.30558295859209633,False,Medium,Regular engagement,530
+C05980,annual,2383.41,0.3055544100036813,False,Medium,Regular engagement,531
+C05771,monthly,938.88,0.3051754608984049,False,Medium,Regular engagement,532
+C06556,annual,1715.01,0.30494288504398054,False,Medium,Regular engagement,533
+C05674,monthly,884.67,0.30451149125250315,False,Medium,Regular engagement,534
+C05911,monthly,1074.86,0.3042110827246081,False,Medium,Regular engagement,535
+C06485,monthly,1667.42,0.30381726642497636,False,Medium,Regular engagement,536
+C05856,monthly,1260.58,0.30357162824622436,False,Medium,Regular engagement,537
+C05745,monthly,349.71,0.3021232181163798,False,Medium,Regular engagement,538
+C06404,monthly,905.16,0.3019490388434165,False,Medium,Regular engagement,539
+C06402,annual,2448.16,0.3008697278308987,False,Medium,Regular engagement,540
+C06009,annual,1676.6,0.30082575559046143,False,Medium,Regular engagement,541
+C05592,monthly,1928.57,0.3007293157367786,False,Medium,Regular engagement,542
+C05704,monthly,219.42,0.29908302452950214,False,Low,Regular engagement,543
+C06349,monthly,1251.68,0.2976454594409776,False,Low,Regular engagement,544
+C06098,annual,2002.76,0.29748062989347784,False,Low,Regular engagement,545
+C05938,monthly,2010.81,0.2964410262065812,False,Low,Regular engagement,546
+C06454,monthly,1588.14,0.29629051560448916,False,Low,Regular engagement,547
+C06027,annual,335.73,0.2961085267484396,False,Low,Regular engagement,548
+C05594,annual,1104.27,0.29568525068223017,False,Low,Regular engagement,549
+C05657,monthly,1695.25,0.2951378355925268,False,Low,Regular engagement,550
+C05954,monthly,2097.41,0.2950591425151774,False,Low,Regular engagement,551
+C06053,monthly,1870.83,0.2949458276615614,False,Low,Regular engagement,552
+C05784,monthly,255.49,0.2948055720361481,False,Low,Regular engagement,553
+C06448,annual,2126.46,0.29469404512754527,False,Low,Regular engagement,554
+C06228,monthly,2075.48,0.29403471647313206,False,Low,Regular engagement,555
+C06319,monthly,1865.29,0.2925060906892696,False,Low,Regular engagement,556
+C06540,monthly,1567.2,0.2916198273359525,False,Low,Regular engagement,557
+C05717,annual,1100.43,0.29065109590468224,False,Low,Regular engagement,558
+C06515,annual,600.31,0.2904475995502718,False,Low,Regular engagement,559
+C06216,monthly,2233.5,0.2900738668031957,False,Low,Regular engagement,560
+C05740,annual,454.15,0.290042199174137,False,Low,Regular engagement,561
+C05901,annual,2412.47,0.28964940006694234,False,Low,Regular engagement,562
+C06532,monthly,1831.77,0.2892986600695815,False,Low,Regular engagement,563
+C05733,monthly,2240.28,0.28829830017166913,False,Low,Regular engagement,564
+C06503,monthly,1881.08,0.28767757771337943,False,Low,Regular engagement,565
+C06282,monthly,715.42,0.2867393489013057,False,Low,Regular engagement,566
+C05894,monthly,1318.36,0.2864868489934279,False,Low,Regular engagement,567
+C05567,monthly,1133.29,0.2853211010292995,False,Low,Regular engagement,568
+C06173,annual,388.55,0.28520505613632813,False,Low,Regular engagement,569
+C06024,monthly,1279.56,0.2848490499086874,False,Low,Regular engagement,570
+C06030,monthly,1633.89,0.28427108877062635,False,Low,Regular engagement,571
+C06119,monthly,2443.46,0.2822111884691294,False,Low,Regular engagement,572
+C06461,monthly,285.69,0.2819391397793796,False,Low,Regular engagement,573
+C05764,monthly,647.68,0.2816284593617916,False,Low,Regular engagement,574
+C05862,monthly,1759.88,0.28007355744582235,False,Low,Regular engagement,575
+C05776,monthly,2081.59,0.27946086768095907,False,Low,Regular engagement,576
+C06134,annual,1974.43,0.2790109379388819,False,Low,Regular engagement,577
+C06221,annual,1642.32,0.27795260541186284,False,Low,Regular engagement,578
+C05913,monthly,450.15,0.2775617434326503,False,Low,Regular engagement,579
+C06211,monthly,1202.4,0.277230545447146,False,Low,Regular engagement,580
+C06420,monthly,1878.38,0.2740917929558128,False,Low,Regular engagement,581
+C05810,annual,2462.79,0.2734693878827254,False,Low,Regular engagement,582
+C05544,monthly,1990.22,0.27320905005076906,False,Low,Regular engagement,583
+C06169,monthly,718.46,0.2720084565558967,False,Low,Regular engagement,584
+C06175,monthly,2441.54,0.27099453075496877,False,Low,Regular engagement,585
+C05898,annual,874.3,0.27098656948471306,False,Low,Regular engagement,586
+C06323,monthly,1908.3,0.2709285907563617,False,Low,Regular engagement,587
+C06438,annual,1630.08,0.2703278591497498,False,Low,Regular engagement,588
+C06226,annual,1369.61,0.27001200303128475,False,Low,Regular engagement,589
+C06417,annual,397.34,0.2697150500390702,False,Low,Regular engagement,590
+C05967,annual,2160.65,0.2692662181686178,False,Low,Regular engagement,591
+C05668,annual,2298.73,0.26901272712671087,False,Low,Regular engagement,592
+C05523,monthly,1895.95,0.2681772780428451,False,Low,Regular engagement,593
+C06005,annual,1269.41,0.2676235129865043,False,Low,Regular engagement,594
+C05957,monthly,2269.03,0.2670656714195724,False,Low,Regular engagement,595
+C05927,annual,1981.66,0.2665861010865581,False,Low,Regular engagement,596
+C06153,monthly,1733.95,0.26603970368102203,False,Low,Regular engagement,597
+C06107,monthly,490.32,0.26578639200201537,False,Low,Regular engagement,598
+C06543,annual,1669.72,0.26504865937305694,False,Low,Regular engagement,599
+C06116,annual,1122.8,0.26494302470912706,False,Low,Regular engagement,600
+C06445,monthly,2022.33,0.2640310307797733,False,Low,Regular engagement,601
+C06322,annual,2383.37,0.2636964148661321,False,Low,Regular engagement,602
+C05971,monthly,1939.77,0.2634816625735419,False,Low,Regular engagement,603
+C06591,monthly,1357.75,0.262964271027919,False,Low,Regular engagement,604
+C06463,monthly,870.47,0.2628970890386321,False,Low,Regular engagement,605
+C06026,annual,1396.22,0.2625088244726227,False,Low,Regular engagement,606
+C05799,annual,2430.27,0.2611461322689144,False,Low,Regular engagement,607
+C05936,annual,1028.51,0.26070701037053606,False,Low,Regular engagement,608
+C06373,monthly,1428.06,0.26000767242524087,False,Low,Regular engagement,609
+C06547,monthly,1095.59,0.2597929182568472,False,Low,Regular engagement,610
+C06137,annual,1934.1,0.2594966342499185,False,Low,Regular engagement,611
+C06598,monthly,1792.74,0.2594702989695235,False,Low,Regular engagement,612
+C06411,monthly,1128.73,0.25903690275631064,False,Low,Regular engagement,613
+C05953,monthly,1988.26,0.2584668138460712,False,Low,Regular engagement,614
+C06149,annual,999.13,0.25821724316290434,False,Low,Regular engagement,615
+C06212,monthly,774.66,0.25681266297380173,False,Low,Regular engagement,616
+C05807,annual,1231.91,0.2565148887463628,False,Low,Regular engagement,617
+C06264,annual,1701.42,0.2554516106170536,False,Low,Regular engagement,618
+C05683,monthly,2100.13,0.25539176215424486,False,Low,Regular engagement,619
+C05972,annual,2318.51,0.2552512438774975,False,Low,Regular engagement,620
+C06589,monthly,2303.8,0.2550849957879547,False,Low,Regular engagement,621
+C05700,annual,2208.42,0.2550280652220674,False,Low,Regular engagement,622
+C06494,monthly,639.65,0.25460933744995434,False,Low,Regular engagement,623
+C06105,monthly,1603.14,0.2543670598181609,False,Low,Regular engagement,624
+C06043,monthly,659.53,0.25411409709651367,False,Low,Regular engagement,625
+C06405,annual,491.34,0.2536170214061815,False,Low,Regular engagement,626
+C06580,annual,745.23,0.2518543536712558,False,Low,Regular engagement,627
+C05998,monthly,1699.27,0.2518376148593364,False,Low,Regular engagement,628
+C06194,annual,387.87,0.25177910946269927,False,Low,Regular engagement,629
+C06442,monthly,1524.25,0.25168970031189297,False,Low,Regular engagement,630
+C06309,annual,1041.73,0.250684891441279,False,Low,Regular engagement,631
+C05775,annual,490.03,0.24964509046187366,False,Low,Regular engagement,632
+C06188,annual,2398.73,0.2490645704874056,False,Low,Regular engagement,633
+C06094,annual,1904.12,0.2486954050686364,False,Low,Regular engagement,634
+C05748,monthly,2481.22,0.24864249966240876,False,Low,Regular engagement,635
+C06296,monthly,616.13,0.247172678278382,False,Low,Regular engagement,636
+C05741,monthly,519.41,0.24695008716737046,False,Low,Regular engagement,637
+C06408,annual,2015.43,0.24644203321633731,False,Low,Regular engagement,638
+C05576,annual,2222.23,0.24637517752811408,False,Low,Regular engagement,639
+C06062,monthly,1649.44,0.24551782881052142,False,Low,Regular engagement,640
+C06096,monthly,1498.57,0.24534738051537028,False,Low,Regular engagement,641
+C05884,annual,1932.36,0.24420642654275326,False,Low,Regular engagement,642
+C05880,annual,1181.15,0.24398589563759293,False,Low,Regular engagement,643
+C05571,monthly,2210.94,0.24336712920450917,False,Low,Regular engagement,644
+C06232,monthly,2412.3,0.24331741556893852,False,Low,Regular engagement,645
+C06108,monthly,1813.44,0.24196233182170954,False,Low,Regular engagement,646
+C06135,monthly,,0.24088814023871677,False,Low,Regular engagement,647
+C05553,monthly,1573.2,0.24022103347013724,False,Low,Regular engagement,648
+C05906,monthly,1638.42,0.23977960683726188,False,Low,Regular engagement,649
+C06147,annual,1410.17,0.23940760412081855,False,Low,Regular engagement,650
+C06276,annual,532.22,0.23866546285649773,False,Low,Regular engagement,651
+C05601,monthly,2272.38,0.23800495893892815,False,Low,Regular engagement,652
+C06034,monthly,1709.37,0.2369373707593797,False,Low,Regular engagement,653
+C06110,monthly,986.17,0.23669496671667908,False,Low,Regular engagement,654
+C05854,annual,1280.04,0.23513377326731305,False,Low,Regular engagement,655
+C06377,monthly,1810.26,0.23502005572778448,False,Low,Regular engagement,656
+C06452,monthly,937.13,0.23499306126880168,False,Low,Regular engagement,657
+C05694,annual,1183.85,0.234617492281748,False,Low,Regular engagement,658
+C05787,monthly,2084.93,0.23428439786605812,False,Low,Regular engagement,659
+C05513,annual,2412.95,0.2341375162991504,False,Low,Regular engagement,660
+C06172,monthly,243.55,0.23320658155839047,False,Low,Regular engagement,661
+C05867,monthly,485.6,0.23291653049441674,False,Low,Regular engagement,662
+C05626,monthly,1921.08,0.2304702320435324,False,Low,Regular engagement,663
+C05703,annual,267.35,0.23018351953724847,False,Low,Regular engagement,664
+C06127,monthly,1212.4,0.22963297907770988,False,Low,Regular engagement,665
+C05511,monthly,2481.1,0.2290000140828973,False,Low,Regular engagement,666
+C05922,monthly,966.33,0.22823279917313233,False,Low,Regular engagement,667
+C05885,monthly,2464.61,0.2282321476332062,False,Low,Regular engagement,668
+C06068,annual,1958.61,0.2281032335646938,False,Low,Regular engagement,669
+C06249,monthly,538.8,0.22706324145598672,False,Low,Regular engagement,670
+C06180,monthly,2421.22,0.22633548383436775,False,Low,Regular engagement,671
+C06109,annual,1684.8,0.2259022463975478,False,Low,Regular engagement,672
+C06382,monthly,2402.09,0.22540600665093716,False,Low,Regular engagement,673
+C05543,annual,,0.2249237099833641,False,Low,Regular engagement,674
+C05844,monthly,313.64,0.22433203964912402,False,Low,Regular engagement,675
+C05560,annual,691.02,0.22313638860674756,False,Low,Regular engagement,676
+C05916,monthly,2456.21,0.222916461733214,False,Low,Regular engagement,677
+C05929,monthly,1096.72,0.2206630335858657,False,Low,Regular engagement,678
+C05818,monthly,1621.78,0.2206190350186888,False,Low,Regular engagement,679
+C05889,monthly,1714.91,0.21880042143886466,False,Low,Regular engagement,680
+C06583,monthly,994.5,0.21841946275029017,False,Low,Regular engagement,681
+C05872,monthly,255.97,0.2182019424686253,False,Low,Regular engagement,682
+C05968,annual,2286.14,0.21662722640746682,False,Low,Regular engagement,683
+C06318,annual,1568.25,0.21627320680553827,False,Low,Regular engagement,684
+C05863,annual,1529.11,0.21601037190960845,False,Low,Regular engagement,685
+C05777,monthly,1781.74,0.2159119849539863,False,Low,Regular engagement,686
+C05619,monthly,1917.94,0.21558206260204218,False,Low,Regular engagement,687
+C06550,monthly,783.39,0.2154323930128503,False,Low,Regular engagement,688
+C05757,monthly,2487.32,0.2152248567957377,False,Low,Regular engagement,689
+C06269,annual,1653.32,0.21520188283374195,False,Low,Regular engagement,690
+C06048,annual,1805.32,0.21516342093057733,False,Low,Regular engagement,691
+C06012,monthly,783.26,0.21479464154899194,False,Low,Regular engagement,692
+C05909,monthly,1912.82,0.21413263999761759,False,Low,Regular engagement,693
+C05705,monthly,1821.54,0.2137513765642093,False,Low,Regular engagement,694
+C05661,monthly,1062.04,0.21267658873077724,False,Low,Regular engagement,695
+C05914,monthly,213.63,0.2126157328480732,False,Low,Regular engagement,696
+C05735,monthly,863.36,0.212521297596998,False,Low,Regular engagement,697
+C05640,monthly,517.15,0.212498212363693,False,Low,Regular engagement,698
+C06337,monthly,2058.98,0.21213145138112358,False,Low,Regular engagement,699
+C05587,monthly,1575.57,0.21169105655704432,False,Low,Regular engagement,700
+C05582,annual,1657.94,0.21147121901549953,False,Low,Regular engagement,701
+C06222,monthly,272.1,0.2101592704949495,False,Low,Regular engagement,702
+C06572,monthly,1709.27,0.20978984479690166,False,Low,Regular engagement,703
+C05903,monthly,1009.24,0.20961817050156625,False,Low,Regular engagement,704
+C05904,monthly,266.15,0.20936996419502343,False,Low,Regular engagement,705
+C05895,monthly,535.11,0.20912415846042143,False,Low,Regular engagement,706
+C06271,monthly,1704.23,0.20885685477947116,False,Low,Regular engagement,707
+C05918,monthly,2002.65,0.20817919082620645,False,Low,Regular engagement,708
+C06481,monthly,1387.57,0.2076637469056536,False,Low,Regular engagement,709
+C06230,annual,1444.41,0.20729361325703663,False,Low,Regular engagement,710
+C06542,monthly,623.54,0.20687217442813388,False,Low,Regular engagement,711
+C05687,annual,2445.55,0.20627156369389069,False,Low,Regular engagement,712
+C06199,annual,686.98,0.2062212582588933,False,Low,Regular engagement,713
+C06551,monthly,1804.84,0.20570485109197334,False,Low,Regular engagement,714
+C05597,monthly,895.42,0.2053714216530157,False,Low,Regular engagement,715
+C05874,monthly,2275.0,0.20532662229001533,False,Low,Regular engagement,716
+C05709,monthly,273.14,0.20454965990415025,False,Low,Regular engagement,717
+C05521,monthly,1119.13,0.20445032531631646,False,Low,Regular engagement,718
+C05994,annual,566.79,0.20260908930361562,False,Low,Regular engagement,719
+C05796,monthly,1260.74,0.20260292443271805,False,Low,Regular engagement,720
+C05692,monthly,524.08,0.2023271117600409,False,Low,Regular engagement,721
+C05770,annual,,0.20231922011600434,False,Low,Regular engagement,722
+C06370,monthly,840.42,0.20114639643141574,False,Low,Regular engagement,723
+C05671,monthly,1096.42,0.20105352535297535,False,Low,Regular engagement,724
+C06430,monthly,885.41,0.19990938698502864,False,Low,Regular engagement,725
+C06410,annual,2069.44,0.19953902572652724,False,Low,Regular engagement,726
+C06037,monthly,1459.99,0.19922074147148,False,Low,Regular engagement,727
+C06083,monthly,2333.36,0.19879825600553488,False,Low,Regular engagement,728
+C05539,annual,1796.2,0.19846819246250255,False,Low,Regular engagement,729
+C06290,monthly,1865.1,0.1973232632110006,False,Low,Regular engagement,730
+C05977,monthly,305.73,0.19706851728596134,False,Low,Regular engagement,731
+C06239,monthly,402.81,0.19706004634998364,False,Low,Regular engagement,732
+C05722,monthly,2288.82,0.1964930922496453,False,Low,Regular engagement,733
+C06355,monthly,2084.47,0.19599515149025007,False,Low,Regular engagement,734
+C06041,monthly,208.72,0.1959686023786065,False,Low,Regular engagement,735
+C05956,annual,1439.31,0.19389771946271042,False,Low,Regular engagement,736
+C05843,monthly,1753.43,0.19330111148180487,False,Low,Regular engagement,737
+C05876,annual,1320.46,0.19321786694204512,False,Low,Regular engagement,738
+C06428,annual,1595.51,0.19295633446342386,False,Low,Regular engagement,739
+C06364,monthly,373.92,0.1920722942638084,False,Low,Regular engagement,740
+C05710,annual,1231.11,0.1905696990873204,False,Low,Regular engagement,741
+C05753,annual,2008.4,0.19037906383271258,False,Low,Regular engagement,742
+C06217,monthly,1028.35,0.18997388516930203,False,Low,Regular engagement,743
+C06466,monthly,774.19,0.18896299569759384,False,Low,Regular engagement,744
+C06392,monthly,1891.39,0.18883278339596682,False,Low,Regular engagement,745
+C05658,annual,204.61,0.18676572468529523,False,Low,Regular engagement,746
+C05697,monthly,1266.41,0.18643546577404874,False,Low,Regular engagement,747
+C05848,monthly,,0.18619640112917848,False,Low,Regular engagement,748
+C06469,annual,394.64,0.18585594798835706,False,Low,Regular engagement,749
+C05565,monthly,1286.85,0.1855742875288667,False,Low,Regular engagement,750
+C06152,monthly,2041.36,0.18542460185724235,False,Low,Regular engagement,751
+C06522,annual,1426.7,0.1850444265001988,False,Low,Regular engagement,752
+C05924,monthly,311.81,0.18394503661330527,False,Low,Regular engagement,753
+C06064,monthly,1953.98,0.18266024934524622,False,Low,Regular engagement,754
+C06596,annual,1706.68,0.18189723061401902,False,Low,Regular engagement,755
+C06060,monthly,841.43,0.18145979331998602,False,Low,Regular engagement,756
+C06057,monthly,1691.03,0.18097165270381044,False,Low,Regular engagement,757
+C05826,monthly,790.55,0.1803398491593947,False,Low,Regular engagement,758
+C05955,monthly,680.46,0.1801621364410366,False,Low,Regular engagement,759
+C06019,monthly,418.66,0.17997164773520183,False,Low,Regular engagement,760
+C05897,monthly,763.15,0.17982414834354662,False,Low,Regular engagement,761
+C05888,monthly,1933.71,0.17967230695362027,False,Low,Regular engagement,762
+C05756,annual,1663.05,0.17923686622391233,False,Low,Regular engagement,763
+C05693,annual,1039.49,0.17918209756806833,False,Low,Regular engagement,764
+C06113,monthly,2411.41,0.17917991911439027,False,Low,Regular engagement,765
+C06508,monthly,1212.76,0.17845713595913182,False,Low,Regular engagement,766
+C06332,monthly,731.3,0.17840114519280664,False,Low,Regular engagement,767
+C05655,annual,1054.95,0.17826606921228869,False,Low,Regular engagement,768
+C05616,monthly,1430.3,0.1778827438194355,False,Low,Regular engagement,769
+C05881,annual,428.6,0.1759042320294148,False,Low,Regular engagement,770
+C06387,monthly,2184.38,0.1752897243383244,False,Low,Regular engagement,771
+C06100,monthly,1727.94,0.17501256829713774,False,Low,Regular engagement,772
+C06168,annual,1478.23,0.17486499230714664,False,Low,Regular engagement,773
+C05633,monthly,2410.54,0.17390552503918044,False,Low,Regular engagement,774
+C06474,monthly,1987.65,0.17280009096376878,False,Low,Regular engagement,775
+C06069,monthly,1971.95,0.17240224546028105,False,Low,Regular engagement,776
+C06571,monthly,2086.81,0.17112414552723743,False,Low,Regular engagement,777
+C05689,annual,1088.13,0.17043561426319792,False,Low,Regular engagement,778
+C05641,annual,468.53,0.16991667169307434,False,Low,Regular engagement,779
+C06263,monthly,1637.32,0.1697577295600368,False,Low,Regular engagement,780
+C05739,monthly,301.14,0.16953975888821712,False,Low,Regular engagement,781
+C05825,annual,2403.5,0.16757151638549264,False,Low,Regular engagement,782
+C06006,annual,2139.75,0.1672319029601662,False,Low,Regular engagement,783
+C05865,annual,1112.72,0.16634143208402571,False,Low,Regular engagement,784
+C06032,monthly,1069.41,0.16622926669543003,False,Low,Regular engagement,785
+C06003,monthly,1509.97,0.16610484190480307,False,Low,Regular engagement,786
+C06219,monthly,515.22,0.16604617355777845,False,Low,Regular engagement,787
+C05817,annual,1504.63,0.16569985068378074,False,Low,Regular engagement,788
+C05599,annual,601.59,0.16515938731549498,False,Low,Regular engagement,789
+C06190,monthly,1111.35,0.1641664346819186,False,Low,Regular engagement,790
+C06443,monthly,1678.79,0.1637680202382662,False,Low,Regular engagement,791
+C06329,annual,1719.78,0.1627941418597056,False,Low,Regular engagement,792
+C06399,monthly,705.65,0.16182481157519085,False,Low,Regular engagement,793
+C06014,monthly,593.96,0.16182280471952315,False,Low,Regular engagement,794
+C06011,monthly,1487.49,0.16142669579394425,False,Low,Regular engagement,795
+C06087,annual,2079.84,0.16114755631848832,False,Low,Regular engagement,796
+C06023,annual,1758.84,0.16040041639845423,False,Low,Regular engagement,797
+C06534,annual,2152.97,0.1593589450738947,False,Low,Regular engagement,798
+C05836,monthly,1339.78,0.15905750627650506,False,Low,Regular engagement,799
+C05570,monthly,1462.74,0.15888681933675294,False,Low,Regular engagement,800
+C05578,annual,594.59,0.15885770914217454,False,Low,Regular engagement,801
+C06584,annual,717.38,0.15882170232942694,False,Low,Regular engagement,802
+C06054,monthly,1776.95,0.1584883834552908,False,Low,Regular engagement,803
+C06163,annual,560.69,0.15816342789176965,False,Low,Regular engagement,804
+C06244,monthly,1573.88,0.15812143840269183,False,Low,Regular engagement,805
+C06181,monthly,1021.85,0.156414490031124,False,Low,Regular engagement,806
+C05930,annual,350.62,0.15581634148761495,False,Low,Regular engagement,807
+C06066,monthly,1813.96,0.15557089820944445,False,Low,Regular engagement,808
+C06427,annual,775.61,0.15545460508804265,False,Low,Regular engagement,809
+C06280,annual,1839.18,0.15435481131209128,False,Low,Regular engagement,810
+C05769,annual,997.26,0.15384418236424477,False,Low,Regular engagement,811
+C06398,monthly,551.27,0.1534981169085428,False,Low,Regular engagement,812
+C06122,annual,1506.81,0.1529712096702597,False,Low,Regular engagement,813
+C06346,annual,1184.89,0.1529702949242267,False,Low,Regular engagement,814
+C05507,monthly,2012.61,0.1529344618800107,False,Low,Regular engagement,815
+C05949,annual,2104.82,0.1520919125870577,False,Low,Regular engagement,816
+C06044,monthly,1648.59,0.15203769853998603,False,Low,Regular engagement,817
+C06002,monthly,762.2,0.15065951302582709,False,Low,Regular engagement,818
+C05816,monthly,556.13,0.15056558768713965,False,Low,Regular engagement,819
+C05525,monthly,2213.44,0.1504801905466371,False,Low,Regular engagement,820
+C06227,monthly,389.55,0.1492850190169724,False,Low,Regular engagement,821
+C06421,monthly,2471.84,0.1489519393817892,False,Low,Regular engagement,822
+C06198,monthly,2445.99,0.1488761573581271,False,Low,Regular engagement,823
+C06400,monthly,348.06,0.14789807271086694,False,Low,Regular engagement,824
+C06035,annual,2104.03,0.14773152706760984,False,Low,Regular engagement,825
+C06561,monthly,1350.39,0.14691239881886653,False,Low,Regular engagement,826
+C06033,monthly,1608.56,0.14683015292016854,False,Low,Regular engagement,827
+C06380,annual,1517.62,0.14652991027075943,False,Low,Regular engagement,828
+C05765,annual,1586.2,0.14628019462566916,False,Low,Regular engagement,829
+C06423,monthly,1052.85,0.14580481083713495,False,Low,Regular engagement,830
+C05712,monthly,2245.38,0.14457277393249643,False,Low,Regular engagement,831
+C06261,annual,521.4,0.14362077751042826,False,Low,Regular engagement,832
+C05727,annual,2101.06,0.1430352355937665,False,Low,Regular engagement,833
+C05850,annual,993.84,0.14239352418377832,False,Low,Regular engagement,834
+C06357,annual,309.61,0.1412869867988211,False,Low,Regular engagement,835
+C05672,monthly,2102.11,0.1406585149226577,False,Low,Regular engagement,836
+C05789,monthly,1175.35,0.14005046952315736,False,Low,Regular engagement,837
+C06171,monthly,422.12,0.13814106533036424,False,Low,Regular engagement,838
+C05813,monthly,1290.41,0.1375776077262104,False,Low,Regular engagement,839
+C05581,monthly,2354.89,0.13740931166246206,False,Low,Regular engagement,840
+C06046,annual,1118.16,0.13693412711636216,False,Low,Regular engagement,841
+C06535,monthly,218.97,0.13630741601527538,False,Low,Regular engagement,842
+C06197,monthly,447.38,0.13595215322099,False,Low,Regular engagement,843
+C05855,monthly,2302.18,0.13507071141797725,False,Low,Regular engagement,844
+C06016,monthly,2238.91,0.13465000777343636,False,Low,Regular engagement,845
+C06117,annual,1893.7,0.13423108100380832,False,Low,Regular engagement,846
+C06289,monthly,514.07,0.13379926016694205,False,Low,Regular engagement,847
+C06486,monthly,692.23,0.13317294843842234,False,Low,Regular engagement,848
+C06394,annual,1463.33,0.13255202291275314,False,Low,Regular engagement,849
+C05654,monthly,1290.91,0.1317921563499369,False,Low,Regular engagement,850
+C05528,annual,609.85,0.13126352782810916,False,Low,Regular engagement,851
+C06063,monthly,1378.36,0.13041207053585963,False,Low,Regular engagement,852
+C05662,annual,1823.6,0.13027233272277564,False,Low,Regular engagement,853
+C05879,monthly,282.24,0.1302648976273061,False,Low,Regular engagement,854
+C06401,monthly,464.16,0.1300608572165234,False,Low,Regular engagement,855
+C05635,monthly,2403.55,0.12993273871479952,False,Low,Regular engagement,856
+C06436,monthly,254.81,0.12978974547197028,False,Low,Regular engagement,857
+C05907,monthly,1156.73,0.1295195370271685,False,Low,Regular engagement,858
+C06202,annual,1650.63,0.12936410901835382,False,Low,Regular engagement,859
+C06345,monthly,1343.96,0.12839689474483204,False,Low,Regular engagement,860
+C05564,monthly,354.37,0.12812254008887974,False,Low,Regular engagement,861
+C05871,monthly,1756.33,0.1279801152050222,False,Low,Regular engagement,862
+C05991,monthly,2191.24,0.12723206516461666,False,Low,Regular engagement,863
+C05627,annual,2413.46,0.12680490223525298,False,Low,Regular engagement,864
+C06409,monthly,1608.02,0.12525495245820392,False,Low,Regular engagement,865
+C06300,monthly,1416.4,0.12518999172887532,False,Low,Regular engagement,866
+C06086,annual,2238.37,0.1246562272563222,False,Low,Regular engagement,867
+C05839,monthly,534.39,0.12317061027854292,False,Low,Regular engagement,868
+C05763,monthly,2010.84,0.12302995228101805,False,Low,Regular engagement,869
+C05951,annual,987.61,0.12263607420623344,False,Low,Regular engagement,870
+C06487,monthly,1062.8,0.12237343700655003,False,Low,Regular engagement,871
+C06031,annual,307.5,0.12229766953307104,False,Low,Regular engagement,872
+C05995,monthly,1101.31,0.12065485174070566,False,Low,Regular engagement,873
+C06425,monthly,2049.81,0.12011511918206466,False,Low,Regular engagement,874
+C05545,monthly,1571.86,0.11979563052465748,False,Low,Regular engagement,875
+C05530,annual,346.64,0.11974832780966421,False,Low,Regular engagement,876
+C05828,annual,847.15,0.11838045641557353,False,Low,Regular engagement,877
+C06213,annual,2055.99,0.11817101577237385,False,Low,Regular engagement,878
+C05622,annual,215.09,0.11805602667846476,False,Low,Regular engagement,879
+C06256,monthly,1034.74,0.1180116946119033,False,Low,Regular engagement,880
+C06381,monthly,262.9,0.1179317641633733,False,Low,Regular engagement,881
+C06378,annual,1128.19,0.11788438717286516,False,Low,Regular engagement,882
+C06403,annual,842.51,0.11764606349641626,False,Low,Regular engagement,883
+C05615,annual,806.07,0.1162177231090343,False,Low,Regular engagement,884
+C06039,annual,916.7,0.11586391062913444,False,Low,Regular engagement,885
+C05891,annual,871.86,0.1144794680070827,False,Low,Regular engagement,886
+C06267,monthly,2063.76,0.113844336276346,False,Low,Regular engagement,887
+C06151,monthly,775.38,0.1125454837566825,False,Low,Regular engagement,888
+C05928,annual,1996.86,0.11237620597148325,False,Low,Regular engagement,889
+C05540,monthly,610.81,0.11185026847124754,False,Low,Regular engagement,890
+C06224,annual,396.34,0.11151385700274725,False,Low,Regular engagement,891
+C06000,annual,2011.53,0.11141960159594025,False,Low,Regular engagement,892
+C06266,annual,764.25,0.11137961133925693,False,Low,Regular engagement,893
+C05744,monthly,906.46,0.11114273921869987,False,Low,Regular engagement,894
+C06285,monthly,2163.49,0.1110571748298603,False,Low,Regular engagement,895
+C05678,annual,1847.8,0.10976395292384175,False,Low,Regular engagement,896
+C06259,annual,1750.44,0.10861964994670509,False,Low,Regular engagement,897
+C06049,monthly,251.31,0.10855809462690336,False,Low,Regular engagement,898
+C06455,annual,1207.36,0.10839166002592142,False,Low,Regular engagement,899
+C05575,annual,898.87,0.10834992479964621,False,Low,Regular engagement,900
+C05634,annual,2060.92,0.10781541073920116,False,Low,Regular engagement,901
+C06095,monthly,1738.94,0.10771316859044096,False,Low,Regular engagement,902
+C06099,monthly,1735.29,0.10728751018195584,False,Low,Regular engagement,903
+C05963,annual,2154.42,0.1072507889248038,False,Low,Regular engagement,904
+C05624,annual,1211.69,0.10675013142026243,False,Low,Regular engagement,905
+C05711,monthly,1772.55,0.10587165518441947,False,Low,Regular engagement,906
+C06407,monthly,2324.53,0.10572081545346212,False,Low,Regular engagement,907
+C05859,annual,1136.29,0.10450164535736482,False,Low,Regular engagement,908
+C06084,annual,1299.15,0.10405610934868786,False,Low,Regular engagement,909
+C06080,monthly,1267.38,0.103471854654711,False,Low,Regular engagement,910
+C05685,annual,1920.74,0.10325790078487886,False,Low,Regular engagement,911
+C05845,annual,1850.63,0.10295417278954054,False,Low,Regular engagement,912
+C06101,monthly,1722.07,0.10294748991424958,False,Low,Regular engagement,913
+C05950,monthly,754.87,0.1028500943228927,False,Low,Regular engagement,914
+C06545,monthly,1471.1,0.10281992478816342,False,Low,Regular engagement,915
+C05766,annual,1023.88,0.10258369116416517,False,Low,Regular engagement,916
+C06158,monthly,1548.63,0.10227575389487757,False,Low,Regular engagement,917
+C05614,annual,1191.0,0.10220772705317802,False,Low,Regular engagement,918
+C06528,monthly,1245.66,0.10217007451234379,False,Low,Regular engagement,919
+C06200,monthly,1787.97,0.10188886672046282,False,Low,Regular engagement,920
+C05827,annual,1602.48,0.10182935426859338,False,Low,Regular engagement,921
+C06527,monthly,1340.21,0.1015098677801255,False,Low,Regular engagement,922
+C06426,monthly,751.58,0.10145520785718215,False,Low,Regular engagement,923
+C06446,annual,1728.04,0.10125831277862105,False,Low,Regular engagement,924
+C06597,monthly,2031.4,0.10083102107688505,False,Low,Regular engagement,925
+C06316,monthly,222.39,0.10050284625082193,False,Low,Regular engagement,926
+C05512,annual,1547.72,0.1003173226154212,False,Low,Regular engagement,927
+C05509,monthly,2223.99,0.10010328349386874,False,Low,Regular engagement,928
+C06208,annual,1862.04,0.09932535448630742,False,Low,Regular engagement,929
+C05890,monthly,1266.35,0.09919104691363981,False,Low,Regular engagement,930
+C05788,monthly,1410.27,0.09911121739747765,False,Low,Regular engagement,931
+C05610,monthly,1046.63,0.099021320481048,False,Low,Regular engagement,932
+C06491,monthly,476.92,0.09885974288575972,False,Low,Regular engagement,933
+C06028,monthly,317.17,0.09748127184440829,False,Low,Regular engagement,934
+C05532,monthly,406.45,0.09708330389302272,False,Low,Regular engagement,935
+C05960,annual,2464.09,0.09614488089969973,False,Low,Regular engagement,936
+C05517,annual,2021.69,0.09597537232634112,False,Low,Regular engagement,937
+C06362,monthly,806.14,0.09581222685826082,False,Low,Regular engagement,938
+C06517,annual,211.24,0.0949325343796526,False,Low,Regular engagement,939
+C06472,annual,1858.77,0.09452540770928157,False,Low,Regular engagement,940
+C06450,annual,2399.36,0.09433414173937882,False,Low,Regular engagement,941
+C05639,monthly,2346.3,0.094114756326566,False,Low,Regular engagement,942
+C05983,annual,607.09,0.09392597476381775,False,Low,Regular engagement,943
+C05882,monthly,1121.13,0.0933944274252606,False,Low,Regular engagement,944
+C06563,annual,2328.47,0.09266928698595672,False,Low,Regular engagement,945
+C06179,monthly,1853.48,0.09245345927151069,False,Low,Regular engagement,946
+C06453,annual,245.42,0.09194195710898916,False,Low,Regular engagement,947
+C05803,annual,1847.28,0.09166868848845013,False,Low,Regular engagement,948
+C05538,annual,599.63,0.09114453877515778,False,Low,Regular engagement,949
+C05806,monthly,662.5,0.0909496832995269,False,Low,Regular engagement,950
+C06306,annual,1364.64,0.09082587460560065,False,Low,Regular engagement,951
+C06579,annual,1011.93,0.09057913714463685,False,Low,Regular engagement,952
+C06121,annual,277.86,0.08965041130198968,False,Low,Regular engagement,953
+C06018,monthly,1985.32,0.08936318885570643,False,Low,Regular engagement,954
+C05841,monthly,2370.15,0.0883457708738316,False,Low,Regular engagement,955
+C06480,monthly,615.38,0.0883126354120588,False,Low,Regular engagement,956
+C05820,monthly,1600.16,0.08831023884980123,False,Low,Regular engagement,957
+C06482,monthly,1718.91,0.08680349662984364,False,Low,Regular engagement,958
+C06040,annual,322.8,0.08650616708763165,False,Low,Regular engagement,959
+C06440,monthly,1372.98,0.08621800386620511,False,Low,Regular engagement,960
+C06067,annual,2077.17,0.08574566109699609,False,Low,Regular engagement,961
+C06247,monthly,1805.69,0.08559081616454736,False,Low,Regular engagement,962
+C06555,annual,417.62,0.08531877828431197,False,Low,Regular engagement,963
+C06354,monthly,2169.73,0.08511704387980697,False,Low,Regular engagement,964
+C06433,annual,604.31,0.0849890253688545,False,Low,Regular engagement,965
+C06004,annual,229.76,0.08399992820939578,False,Low,Regular engagement,966
+C05840,monthly,1200.49,0.08385708213891871,False,Low,Regular engagement,967
+C06570,monthly,300.15,0.08369735780081254,False,Low,Regular engagement,968
+C06477,annual,1711.23,0.08344065095141054,False,Low,Regular engagement,969
+C05939,monthly,2409.35,0.08249132043172536,False,Low,Regular engagement,970
+C05569,annual,1690.21,0.08170999358161983,False,Low,Regular engagement,971
+C05822,monthly,2204.99,0.08169996305523741,False,Low,Regular engagement,972
+C05605,annual,748.52,0.08130600731618141,False,Low,Regular engagement,973
+C05794,monthly,710.8,0.080863668850566,False,Low,Regular engagement,974
+C05932,annual,1572.46,0.08082636062499317,False,Low,Regular engagement,975
+C05659,monthly,1621.49,0.08060918243069923,False,Low,Regular engagement,976
+C05974,monthly,1581.01,0.07983149735911191,False,Low,Regular engagement,977
+C06356,monthly,1177.95,0.07935545754881403,False,Low,Regular engagement,978
+C06139,monthly,607.36,0.07856283708564624,False,Low,Regular engagement,979
+C05504,annual,1997.44,0.07747938852197718,False,Low,Regular engagement,980
+C06557,annual,1608.03,0.07697336063647095,False,Low,Regular engagement,981
+C05653,monthly,2429.42,0.07671422665272379,False,Low,Regular engagement,982
+C05686,monthly,845.25,0.07582538639545205,False,Low,Regular engagement,983
+C05835,monthly,1798.52,0.07554686391534007,False,Low,Regular engagement,984
+C06554,annual,442.27,0.07550503327589454,False,Low,Regular engagement,985
+C06344,monthly,2185.03,0.07513873681284383,False,Low,Regular engagement,986
+C06187,monthly,1374.31,0.07508225225200936,False,Low,Regular engagement,987
+C05681,annual,1508.97,0.07468358741533677,False,Low,Regular engagement,988
+C06372,monthly,2333.16,0.07453262511104095,False,Low,Regular engagement,989
+C05768,monthly,1752.79,0.07446899966230479,False,Low,Regular engagement,990
+C05970,annual,347.09,0.0743755560842301,False,Low,Regular engagement,991
+C05650,monthly,877.79,0.07423413376178528,False,Low,Regular engagement,992
+C05618,annual,2194.31,0.07411465872904197,False,Low,Regular engagement,993
+C06574,annual,664.57,0.07338353403820928,False,Low,Regular engagement,994
+C06178,monthly,938.44,0.0720576584370259,False,Low,Regular engagement,995
+C05537,annual,1880.76,0.07163721045353322,False,Low,Regular engagement,996
+C06103,annual,1266.02,0.07113948856194684,False,Low,Regular engagement,997
+C05720,annual,896.59,0.07086518580078949,False,Low,Regular engagement,998
+C06514,monthly,2422.95,0.07062036554585438,False,Low,Regular engagement,999
+C05814,annual,1196.43,0.07061233435975692,False,Low,Regular engagement,1000
+C06074,annual,1518.4,0.069850047125794,False,Low,Regular engagement,1001
+C06569,annual,2326.31,0.0683724910907393,False,Low,Regular engagement,1002
+C05824,monthly,2176.78,0.06797200687489126,False,Low,Regular engagement,1003
+C05921,monthly,952.97,0.06754343508561718,False,Low,Regular engagement,1004
+C06246,monthly,1750.28,0.06679786815623137,False,Low,Regular engagement,1005
+C06115,annual,1489.41,0.06640020312473369,False,Low,Regular engagement,1006
+C06558,monthly,1391.6,0.06609662235105154,False,Low,Regular engagement,1007
+C06521,monthly,2296.71,0.06579764150407505,False,Low,Regular engagement,1008
+C05943,monthly,780.87,0.06577529463691416,False,Low,Regular engagement,1009
+C05846,monthly,747.41,0.06485882629719875,False,Low,Regular engagement,1010
+C05588,monthly,1985.92,0.0647439388025635,False,Low,Regular engagement,1011
+C06081,monthly,1162.41,0.06445965409343449,False,Low,Regular engagement,1012
+C05637,monthly,239.96,0.06377806525018367,False,Low,Regular engagement,1013
+C05664,annual,1046.91,0.06325344055718177,False,Low,Regular engagement,1014
+C06587,annual,1978.65,0.06315795065085927,False,Low,Regular engagement,1015
+C06297,annual,994.61,0.06298366160146232,False,Low,Regular engagement,1016
+C05534,monthly,1096.25,0.0624440286125151,False,Low,Regular engagement,1017
+C06321,monthly,1883.75,0.06227365843447926,False,Low,Regular engagement,1018
+C05566,annual,406.76,0.05959740878823571,False,Low,Regular engagement,1019
+C06536,monthly,590.91,0.05867706818447273,False,Low,Regular engagement,1020
+C06513,monthly,326.61,0.058426527755400755,False,Low,Regular engagement,1021
+C06220,monthly,2306.55,0.05724643902114021,False,Low,Regular engagement,1022
+C06360,annual,1029.25,0.055611404567446586,False,Low,Regular engagement,1023
+C05684,annual,1571.84,0.054406918427806136,False,Low,Regular engagement,1024
+C06201,annual,1663.01,0.0530780660481656,False,Low,Regular engagement,1025
+C05623,monthly,991.33,0.05235731585816922,False,Low,Regular engagement,1026
+C06391,monthly,,0.052127778631559256,False,Low,Regular engagement,1027
+C06189,monthly,2279.75,0.05176314960646576,False,Low,Regular engagement,1028
+C06395,annual,1079.42,0.05143801933499175,False,Low,Regular engagement,1029
+C06342,annual,2256.98,0.05056677192841851,False,Low,Regular engagement,1030
+C06089,annual,228.73,0.050345464371974145,False,Low,Regular engagement,1031
+C06157,monthly,610.65,0.050035407040009736,False,Low,Regular engagement,1032
+C05612,annual,1626.48,0.04914600674998773,False,Low,Regular engagement,1033
+C05701,monthly,764.93,0.0489129010979646,False,Low,Regular engagement,1034
+C06143,annual,886.25,0.04878507729706852,False,Low,Regular engagement,1035
+C05559,monthly,674.83,0.04806100170145137,False,Low,Regular engagement,1036
+C06183,annual,1667.34,0.04769700087716172,False,Low,Regular engagement,1037
+C05676,annual,271.8,0.0476620429128888,False,Low,Regular engagement,1038
+C06488,annual,696.58,0.047366321866535915,False,Low,Regular engagement,1039
+C06272,monthly,1159.77,0.045420251451275456,False,Low,Regular engagement,1040
+C05729,monthly,381.0,0.045100753293456815,False,Low,Regular engagement,1041
+C05829,annual,1693.0,0.044885167200543925,False,Low,Regular engagement,1042
+C05706,annual,471.08,0.04485833950359664,False,Low,Regular engagement,1043
+C05679,annual,1636.75,0.044649377132884624,False,Low,Regular engagement,1044
+C06549,annual,282.12,0.0443517925809624,False,Low,Regular engagement,1045
+C05986,annual,2205.83,0.043712256831775514,False,Low,Regular engagement,1046
+C05864,annual,1328.83,0.042728863173451134,False,Low,Regular engagement,1047
+C05869,annual,896.17,0.041930933348077994,False,Low,Regular engagement,1048
+C05782,monthly,469.06,0.041787595685679586,False,Low,Regular engagement,1049
+C05644,annual,2006.63,0.041776174609867614,False,Low,Regular engagement,1050
+C06317,annual,362.31,0.04149407845286715,False,Low,Regular engagement,1051
+C05940,monthly,878.44,0.041380937765718294,False,Low,Regular engagement,1052
+C06475,annual,446.58,0.04104496424819438,False,Low,Regular engagement,1053
+C06295,annual,1313.88,0.0396552105478531,False,Low,Regular engagement,1054
+C06036,annual,1166.68,0.03952395644434743,False,Low,Regular engagement,1055
+C06288,annual,1977.7,0.03936446805854587,False,Low,Regular engagement,1056
+C05749,annual,1102.87,0.038567661111249256,False,Low,Regular engagement,1057
+C05923,monthly,1779.87,0.038355742850945895,False,Low,Regular engagement,1058
+C05966,annual,1279.4,0.03813726775099708,False,Low,Regular engagement,1059
+C05500,annual,607.65,0.036551801800102084,False,Low,Regular engagement,1060
+C06353,annual,1747.87,0.03654469509807942,False,Low,Regular engagement,1061
+C05793,annual,711.03,0.03608911073552549,False,Low,Regular engagement,1062
+C06252,monthly,1646.1,0.035933113910229034,False,Low,Regular engagement,1063
+C06582,monthly,1685.83,0.035234589569115224,False,Low,Regular engagement,1064
+C06375,annual,450.31,0.03329399299982479,False,Low,Regular engagement,1065
+C05647,annual,1862.56,0.03269795812929582,False,Low,Regular engagement,1066
+C05505,annual,1463.62,0.03266710704239788,False,Low,Regular engagement,1067
+C06314,monthly,318.04,0.03261747726363554,False,Low,Regular engagement,1068
+C06262,monthly,330.88,0.03187799420604693,False,Low,Regular engagement,1069
+C05598,annual,933.7,0.031856978121043295,False,Low,Regular engagement,1070
+C06331,annual,2427.0,0.031439520996978686,False,Low,Regular engagement,1071
+C06225,annual,1518.63,0.030273573545064915,False,Low,Regular engagement,1072
+C05852,annual,1399.84,0.028353135299898812,False,Low,Regular engagement,1073
+C06270,annual,475.95,0.028186432006101794,False,Low,Regular engagement,1074
+C05585,annual,550.81,0.026576447294310447,False,Low,Regular engagement,1075
+C06497,annual,858.51,0.026506280348121893,False,Low,Regular engagement,1076
+C05573,annual,1979.2,0.02618653091891768,False,Low,Regular engagement,1077
+C06161,monthly,257.08,0.025772737832078618,False,Low,Regular engagement,1078
+C05997,monthly,2347.29,0.025567272825042894,False,Low,Regular engagement,1079
+C05522,annual,1671.12,0.025261134101609066,False,Low,Regular engagement,1080
+C06260,annual,1751.54,0.02509671168597351,False,Low,Regular engagement,1081
+C06320,annual,585.28,0.023109183661429198,False,Low,Regular engagement,1082
+C06495,monthly,1597.88,0.02250832446997128,False,Low,Regular engagement,1083
+C05847,annual,1237.49,0.02213750362658913,False,Low,Regular engagement,1084
+C06484,annual,1387.93,0.02111805228784728,False,Low,Regular engagement,1085
+C06327,annual,1029.05,0.02038621646352329,False,Low,Regular engagement,1086
+C05568,annual,1127.1,0.020182933546133472,False,Low,Regular engagement,1087
+C06215,annual,2344.86,0.01978458860110647,False,Low,Regular engagement,1088
+C06001,annual,1046.33,0.018382563791298084,False,Low,Regular engagement,1089
+C05673,annual,329.03,0.017765937397525463,False,Low,Regular engagement,1090
+C06231,annual,1668.79,0.015895910426585644,False,Low,Regular engagement,1091
+C05919,annual,572.02,0.015655005219820082,False,Low,Regular engagement,1092
+C06291,monthly,423.22,0.013981112076323557,False,Low,Regular engagement,1093
+C06102,annual,1406.88,0.013387278772103333,False,Low,Regular engagement,1094
+C05982,annual,1294.73,0.013162531991702475,False,Low,Regular engagement,1095
+C05853,monthly,2435.41,0.01257662568380008,False,Low,Regular engagement,1096
+C05707,annual,1458.96,0.01234464345120052,False,Low,Regular engagement,1097
+C06594,annual,1449.95,0.009918500434305259,False,Low,Regular engagement,1098
+C05651,annual,1351.64,0.009127431852258304,False,Low,Regular engagement,1099
+C05606,annual,1134.69,0.006423732970646607,False,Low,Regular engagement,1100

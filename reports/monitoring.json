@@ -1,0 +1,59 @@
+{
+  "rows": 1100,
+  "checks": [
+    {
+      "feature": "tenure_months",
+      "missing_rate_change": 0.0,
+      "review": false,
+      "mean_shift_in_training_std": 0.0811406606210478
+    },
+    {
+      "feature": "monthly_charge",
+      "missing_rate_change": 0.0006060606060606065,
+      "review": false,
+      "mean_shift_in_training_std": 0.04433667150298593
+    },
+    {
+      "feature": "usage_previous",
+      "missing_rate_change": 0.0,
+      "review": false,
+      "mean_shift_in_training_std": 0.041653329652549025
+    },
+    {
+      "feature": "usage_current",
+      "missing_rate_change": -0.0048484848484848485,
+      "review": false,
+      "mean_shift_in_training_std": 0.011240644853657184
+    },
+    {
+      "feature": "support_tickets",
+      "missing_rate_change": 0.0,
+      "review": false,
+      "mean_shift_in_training_std": 0.01581082186504028
+    },
+    {
+      "feature": "failed_payments",
+      "missing_rate_change": 0.0,
+      "review": false,
+      "mean_shift_in_training_std": 0.058428134706207974
+    },
+    {
+      "feature": "usage_change",
+      "missing_rate_change": -0.0048484848484848485,
+      "review": false,
+      "mean_shift_in_training_std": 0.038937900302856064
+    },
+    {
+      "feature": "contract",
+      "missing_rate_change": 0.0,
+      "review": false
+    },
+    {
+      "feature": "payment_method",
+      "missing_rate_change": 0.006666666666666666,
+      "review": false
+    }
+  ],
+  "outcome_metrics": null,
+  "note": "Heuristic drift checks; not proof of model decay. Labels must be mature."
+}
