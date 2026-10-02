@@ -1,7 +1,7 @@
 # GitHub and deployment
 
-Published source: https://github.com/harshakavali81-collab/Customer-Churn-Prediction-and-Retention-System
-Hosted browser companion (owner-private): https://harsha-customer-retention.kavaliharshavardhan9.chatgpt.site
+Published public source: https://github.com/harshakavali81-collab/Customer-Churn-Prediction-and-Retention-System
+Public hosted browser companion: https://harsha-customer-retention.kavaliharshavardhan9.chatgpt.site
 The Python Streamlit app remains runnable locally; separate Streamlit hosting is optional. The instructions below are retained for making a separate copy.
 ## GitHub upload (Windows)
 Your project folder is ready to commit. The source repository above contains the project. Use the steps below only to publish a separate copy.
@@ -40,4 +40,4 @@ https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deplo
 https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started
 
 ## CI
-The included GitHub Actions workflow installs dependencies, rebuilds the synthetic pipeline and runs tests on Python 3.11. The local tests have been run; hosted CI runs only after pushing. Pin transitive dependencies with a lock file for a longer-lived production release.
+The included GitHub Actions workflow installs dependencies, rebuilds the synthetic pipeline and runs tests on Python 3.11, including browser-model parity checks. The last run passed; this documentation update triggers a fresh run. Pin transitive dependencies with a lock file for a longer-lived production release.

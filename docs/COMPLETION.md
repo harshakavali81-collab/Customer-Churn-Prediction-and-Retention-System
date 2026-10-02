@@ -1,4 +1,4 @@
-# Project completion - 1 October 2026
+# Project completion - 2 October 2026
 
 ## Delivered
 - Reproducible Python training, SQL analysis and monitoring.
@@ -10,10 +10,10 @@
 ## Hosted demo
 https://harsha-customer-retention.kavaliharshavardhan9.chatgpt.site
 
-This Site was deployed successfully with owner-private access. It is available to the owner; public visitor access has not been enabled. The source repository remains public. The static browser version implements the fitted Logistic Regression scoring pipeline; it is not a hosted Python/Streamlit process. Uploads are processed in browser memory.
+The Site is deployed successfully with public visitor access. The source repository is also public. The static browser version implements the fitted Logistic Regression scoring pipeline; it is not a hosted Python/Streamlit process. CSV uploads are processed in browser memory.
 
 ## Verification
-The original hosted GitHub Actions training/tests run passed. All nine Python tests passed locally again. Browser predictions match Python across 1,103 records, including missing values and zero usage; maximum absolute difference was 2.22e-16. CSV parsing and input validation tests passed. The updated GitHub workflow now includes these parity checks.
+The last GitHub Actions run passed on source commit `eb85dfaf764e0b98e22dd86ba7e9b88fa31b1d64`, including the training/tests workflow. This documentation refresh triggers a new run. The browser parity test passes across 1,103 records, including missing values and zero usage; maximum absolute difference was 2.22e-16. CSV parsing and input validation tests pass. Eight of the nine Python tests pass in this workspace; the Streamlit app page test could not run here because Streamlit is not installed. CI installs project dependencies and passed the full workflow.
 
 Supported browser preview tooling was unavailable, so visual browser QA and optional WebMCP registration validation were not performed. The deployment service confirmed successful publication. Docker was supplied but not built.
 
