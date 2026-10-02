@@ -6,6 +6,12 @@ A reproducible portfolio project by Kavali Harshavardhan, built with Python, SQL
 
 Read [the complete illustrated PDF guide](docs/Customer_Churn_Project_Complete_Guide.pdf) for the workflow, results, setup and interview explanation.
 
+## Hosted browser demo
+
+[Open Customer Retention Studio](https://harsha-customer-retention.kavaliharshavardhan9.chatgpt.site) (initially owner-private). The browser companion includes batch CSV and single-customer scoring, a capacity-limited outreach queue, model evaluation and the PDF guide. The Python project remains available for training, Streamlit and monitoring.
+
+Read [the architecture and workflow](docs/ARCHITECTURE.md) and [completion status](docs/COMPLETION.md).
+
 ## Start here (Windows / VS Code)
 1. Extract the ZIP and open this folder in VS Code.
 2. Install Python 3.11 or 3.12. Open Terminal → New Terminal.
@@ -61,7 +67,7 @@ Read [reports/RESULTS.md](reports/RESULTS.md) for generated measurements and cav
 ![EDA](reports/eda.png)
 
 ## Publishing status
-This project is published at https://github.com/harshakavali81-collab/Customer-Churn-Prediction-and-Retention-System and is runnable locally. Public app hosting has not been completed. The PDF records the build-time publication status; this README carries the current status. Follow [docs/GITHUB_AND_DEPLOYMENT.md](docs/GITHUB_AND_DEPLOYMENT.md). No secrets are needed for the local demo.
+This project is published at https://github.com/harshakavali81-collab/Customer-Churn-Prediction-and-Retention-System and is runnable locally. A browser companion is now deployed with owner-private access. The Streamlit app can still be run locally or deployed separately. The PDF records the build-time publication status; this README carries the current status. Follow [docs/GITHUB_AND_DEPLOYMENT.md](docs/GITHUB_AND_DEPLOYMENT.md). No secrets are needed for the local demo.
 
 ## Replacing synthetic data
 Adapt your source to the data dictionary; implement consented extraction, as-of joins and an outcome maturity filter. Repeated customers require grouped temporal splitting. This generator is not a general real-data trainer: replace `generate()` and the hardcoded cohort splits before real use. Validate calibration, subgroup performance and treatment impact separately. Never upload private customer data into a public repository or public demo.

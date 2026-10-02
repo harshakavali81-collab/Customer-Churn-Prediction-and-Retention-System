@@ -1,7 +1,8 @@
 # GitHub and deployment
 
 Published source: https://github.com/harshakavali81-collab/Customer-Churn-Prediction-and-Retention-System
-Public app hosting is not yet completed. The instructions below are retained for making a separate copy.
+Hosted browser companion (owner-private): https://harsha-customer-retention.kavaliharshavardhan9.chatgpt.site
+The Python Streamlit app remains runnable locally; separate Streamlit hosting is optional. The instructions below are retained for making a separate copy.
 ## GitHub upload (Windows)
 Your project folder is ready to commit. The source repository above contains the project. Use the steps below only to publish a separate copy.
 1. Visit https://github.com/new while signed in as your intended account.
